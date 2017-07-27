@@ -15,8 +15,8 @@
     <keywords2 keywords="0.domainComponent" />
   </highlighting>
   <extensionMap>
+    <mapping ext="cnf" />
     <mapping ext="cfg" />
     <mapping ext="config" />
-    <mapping ext="cnf" />
   </extensionMap>
 </filetype>
