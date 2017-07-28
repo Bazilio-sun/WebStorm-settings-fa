@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="NBCH" />
-    <option name="defaultScopeName" value="NBCH" />
-    <option name="SEARCH_SCOPE" value="NBCH" />
+    <option name="customScope" value="File '[platform] - ...\api\controllers\NbchDossierController.es6'" />
+    <option name="defaultScopeName" value="File '[platform] - ...\api\controllers\NbchDossierController.es6'" />
+    <option name="SEARCH_SCOPE" value="File '[platform] - ...\api\controllers\NbchDossierController.es6'" />
   </component>
 </application>
