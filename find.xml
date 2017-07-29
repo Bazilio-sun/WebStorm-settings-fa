@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="GIT-files" />
-    <option name="defaultScopeName" value="GIT-files" />
+    <option name="customScope" value="File '[Equifax] - ...\crypto\sign-work.es6'" />
+    <option name="defaultScopeName" value="File '[Equifax] - ...\crypto\sign-work.es6'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,6 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="GIT-files" />
+    <option name="SEARCH_SCOPE" value="File '[Equifax] - ...\crypto\sign-work.es6'" />
   </component>
 </application>
