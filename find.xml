@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Equifax] - ...\crypto\cert-gen\cli.js'" />
-    <option name="defaultScopeName" value="File '[Equifax] - ...\crypto\cert-gen\cli.js'" />
+    <option name="customScope" value="JS-CODE" />
+    <option name="defaultScopeName" value="JS-CODE" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[Equifax] - ...\crypto\cert-gen\cli.js'" />
+    <option name="SEARCH_SCOPE" value="JS-CODE" />
   </component>
 </application>
