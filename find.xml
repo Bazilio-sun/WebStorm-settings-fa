@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.es6,*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,6 +21,15 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.e</mask>
+      <mask>*.es</mask>
+      <mask>*.es6;</mask>
+      <mask>*.es6</mask>
+      <mask>*.es6,</mask>
+      <mask>*.es6,*</mask>
+      <mask>*.es6,*.</mask>
+      <mask>*.es6,*.j</mask>
+      <mask>*.es6,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
