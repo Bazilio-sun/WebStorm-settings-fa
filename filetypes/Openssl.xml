@@ -18,8 +18,8 @@
   </highlighting>
   <extensionMap>
     <mapping ext="cnf" />
-    <mapping ext="openssl" />
     <mapping ext="cfg" />
     <mapping ext="config" />
+    <mapping ext="openssl" />
   </extensionMap>
 </filetype>
