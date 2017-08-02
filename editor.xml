@@ -20,9 +20,9 @@
     </pattern>
     <pattern useCustomColors="true" case-sensitive="true" pattern="\bSSM\b.*">
       <option name="FOREGROUND" value="760c" />
-      <option name="BACKGROUND" value="fffd02" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="96ff" />
+      <option name="BACKGROUND" value="f7ffbe" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="EFFECT_COLOR" value="73ddff" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
     <filter name="SS TODO">
