@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="JS-CODE" />
-    <option name="defaultScopeName" value="JS-CODE" />
+    <option name="customScope" value="File '[Equifax] - ...\model\xml-2-json.es6'" />
+    <option name="defaultScopeName" value="File '[Equifax] - ...\model\xml-2-json.es6'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="JS-CODE" />
+    <option name="SEARCH_SCOPE" value="File '[Equifax] - ...\model\xml-2-json.es6'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
