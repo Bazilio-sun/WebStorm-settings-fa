@@ -7,7 +7,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" pattern="\bsstodo\b.*">
+    <pattern useCustomColors="true" pattern="\bsstodo|vvmtodo\b.*">
       <option name="FOREGROUND" value="73bf" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
@@ -18,7 +18,7 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff15" />
     </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bSSM\b.*">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bSSM|VVM\b.*">
       <option name="FOREGROUND" value="760c" />
       <option name="BACKGROUND" value="f7ffbe" />
       <option name="FONT_TYPE" value="1" />
@@ -31,7 +31,7 @@
     <filter name="SSQ">
       <pattern index="3" />
     </filter>
-    <filter name="SSM">
+    <filter name="VVM">
       <pattern index="4" />
     </filter>
   </component>
