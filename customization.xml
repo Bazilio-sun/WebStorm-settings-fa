@@ -89,7 +89,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoNextBookmark" is_action="true" action_type="1" position="15">
+    <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -101,7 +101,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="16">
+    <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -125,7 +125,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToggleBookmark" is_action="true" action_type="1" position="18">
+    <group value="GotoNextBookmark" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -137,7 +137,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToggleBookmarkWithMnemonic" is_action="true" action_type="1" position="19">
+    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -161,7 +161,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowBookmarks" is_action="true" action_type="1" position="21">
+    <group value="ToggleBookmark" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -173,7 +173,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="22">
+    <group value="ToggleBookmarkWithMnemonic" is_action="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -183,6 +183,21 @@
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowBookmarks" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="ToggleBookmarkWithMnemonic" />
