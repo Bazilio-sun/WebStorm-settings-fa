@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Plat_SRC" />
     <option name="defaultScopeName" value="Plat_SRC" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Plat_SRC" />
     <recentFileMasks>
@@ -13,7 +11,6 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -29,6 +26,10 @@
       <mask>*.es6,*.</mask>
       <mask>*.es6,*.j</mask>
       <mask>*.es6,*.js</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
