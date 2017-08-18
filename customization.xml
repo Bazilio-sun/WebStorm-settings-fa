@@ -125,7 +125,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoNextBookmark" is_action="true" action_type="1" position="18">
+    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -137,7 +137,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="19">
+    <group value="GotoNextBookmark" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -200,10 +200,10 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="ToggleBookmarkWithMnemonic" />
-    <action id="ShowBookmarks" />
-    <action id="ToggleBookmark" />
-    <action id="GotoPreviousBookmark" />
-    <action id="GotoNextBookmark" />
+    <action id="ToggleBookmarkWithMnemonic" icon="D:/$oft/WebStormIco/bookmark-mnemonic.png" />
+    <action id="ShowBookmarks" icon="D:/$oft/WebStormIco/bookmark-list.png" />
+    <action id="ToggleBookmark" icon="D:/$oft/WebStormIco/bookmark-toggele.png" />
+    <action id="GotoPreviousBookmark" icon="D:/$oft/WebStormIco/bookmark-prev.png" />
+    <action id="GotoNextBookmark" icon="D:/$oft/WebStormIco/bookmark-next.png" />
   </component>
 </application>
