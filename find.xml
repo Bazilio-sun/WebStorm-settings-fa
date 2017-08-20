@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="JS-CODE" />
     <option name="defaultScopeName" value="JS-CODE" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="JS-CODE" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -11,22 +11,11 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
-      <mask>*.es6;</mask>
-      <mask>*.es6</mask>
-      <mask>*.es6,</mask>
-      <mask>*.es6,*</mask>
-      <mask>*.es6,*.</mask>
-      <mask>*.es6,*.j</mask>
-      <mask>*.es6,*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
