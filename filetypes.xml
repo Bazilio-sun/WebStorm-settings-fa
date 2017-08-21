@@ -2,10 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-<<<<<<< HEAD
-=======
-      <mapping pattern="Паереписка Леша" type="PLAIN_TEXT" />
->>>>>>> c17c071b3b1f87e134a5d707041f927e3ca84c51
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />

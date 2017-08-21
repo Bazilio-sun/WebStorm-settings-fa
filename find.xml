@@ -1,16 +1,8 @@
 <application>
   <component name="FindSettings">
-<<<<<<< HEAD
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-=======
-    <option name="customScope" value="Plat_SRC" />
-    <option name="defaultScopeName" value="Plat_SRC" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Plat_SRC" />
->>>>>>> c17c071b3b1f87e134a5d707041f927e3ca84c51
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,23 +12,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-<<<<<<< HEAD
-=======
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
-      <mask>*.es6;</mask>
-      <mask>*.es6</mask>
-      <mask>*.es6,</mask>
-      <mask>*.es6,*</mask>
-      <mask>*.es6,*.</mask>
-      <mask>*.es6,*.j</mask>
-      <mask>*.es6,*.js</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
->>>>>>> c17c071b3b1f87e134a5d707041f927e3ca84c51
       <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
