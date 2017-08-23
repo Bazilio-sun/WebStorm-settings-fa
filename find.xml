@@ -1,8 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Plat_SRC" />
-    <option name="defaultScopeName" value="Plat_SRC" />
-    <option name="SEARCH_SCOPE" value="Plat_SRC" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="PLAT_WITH_MIGRATIONS" />
+    <option name="defaultScopeName" value="PLAT_WITH_MIGRATIONS" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="PLAT_WITH_MIGRATIONS" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -15,13 +20,13 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.cs6</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
