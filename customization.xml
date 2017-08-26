@@ -185,6 +185,21 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="ToggleBookmarkWithMnemonic" icon="D:/$oft/WebStormIco/bookmark-mnemonic.png" />
     <action id="ShowBookmarks" icon="D:/$oft/WebStormIco/bookmark-list.png" />
     <action id="ToggleBookmark" icon="D:/$oft/WebStormIco/bookmark-toggele.png" />
