@@ -12,8 +12,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.m</mask>
+      <mask>*.md</mask>
     </recentFileMasks>
   </component>
 </application>
