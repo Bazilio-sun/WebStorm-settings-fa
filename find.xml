@@ -16,7 +16,6 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.j</mask>
       <mask>*.cs6</mask>
       <mask>*.cs</mask>
@@ -24,6 +23,7 @@
       <mask>*.</mask>
       <mask>*</mask>
       <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
