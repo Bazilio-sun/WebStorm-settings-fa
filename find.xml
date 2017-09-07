@@ -24,6 +24,12 @@
       <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>*c.js</mask>
+      <mask>*cre.js</mask>
+      <mask>*cred.js</mask>
+      <mask>*credi.js</mask>
+      <mask>*credit.js</mask>
+      <mask>*credit*.js</mask>
     </recentFileMasks>
   </component>
 </application>
