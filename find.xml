@@ -18,7 +18,6 @@
       <mask>*.cs6</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.js</mask>
       <mask>*c.js</mask>
       <mask>*cre.js</mask>
       <mask>*cred.js</mask>
@@ -32,6 +31,7 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
