@@ -5,13 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Plat_SRC" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.html</mask>
-      <mask>зфнькте*.js</mask>
-      <mask>зфнькт*.js</mask>
-      <mask>зфньк*.js</mask>
       <mask>зфнь*.js</mask>
       <mask>зфн*.js</mask>
       <mask>зф*.js</mask>
@@ -36,6 +31,12 @@
       <mask>payment*t*</mask>
       <mask>payment**</mask>
       <mask>payment*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
