@@ -2,38 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="Plat_SRC" />
     <option name="defaultScopeName" value="Plat_SRC" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Plat_SRC" />
+    <option name="FILE_MASK" value="payment*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.j</mask>
-      <mask>*.cs6</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*c.js</mask>
-      <mask>*cre.js</mask>
-      <mask>*cred.js</mask>
-      <mask>*credi.js</mask>
-      <mask>*credit.js</mask>
-      <mask>*credit*.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.html</mask>
+      <mask>зфнькте*.js</mask>
+      <mask>зфнькт*.js</mask>
+      <mask>зфньк*.js</mask>
+      <mask>зфнь*.js</mask>
+      <mask>зфн*.js</mask>
+      <mask>зф*.js</mask>
+      <mask>з*.js</mask>
       <mask>*.js</mask>
+      <mask>p*.js</mask>
+      <mask>pa*.js</mask>
+      <mask>pay*.js</mask>
+      <mask>paym*.js</mask>
+      <mask>payme*.js</mask>
+      <mask>paymen*.js</mask>
+      <mask>payment*.js</mask>
+      <mask>payment*.j</mask>
+      <mask>payment*.</mask>
+      <mask>payment*.*</mask>
+      <mask>payment*.h</mask>
+      <mask>payment*.html</mask>
+      <mask>payment*.htm</mask>
+      <mask>payment*.ht</mask>
+      <mask>payment*.ht*</mask>
+      <mask>payment*ht*</mask>
+      <mask>payment*t*</mask>
+      <mask>payment**</mask>
+      <mask>payment*</mask>
     </recentFileMasks>
   </component>
 </application>
