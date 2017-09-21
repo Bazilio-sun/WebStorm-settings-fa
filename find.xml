@@ -3,11 +3,8 @@
     <option name="customScope" value="Plat_SRC" />
     <option name="defaultScopeName" value="Plat_SRC" />
     <option name="SEARCH_SCOPE" value="Plat_SRC" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.es6" />
     <recentFileMasks>
-      <mask>зфнь*.js</mask>
-      <mask>зфн*.js</mask>
-      <mask>зф*.js</mask>
       <mask>з*.js</mask>
       <mask>*.js</mask>
       <mask>p*.js</mask>
@@ -35,6 +32,9 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.e</mask>
+      <mask>*.es</mask>
+      <mask>*.es6</mask>
     </recentFileMasks>
   </component>
 </application>
