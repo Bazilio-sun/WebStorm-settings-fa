@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Plat_SRC" />
-    <option name="defaultScopeName" value="Plat_SRC" />
-    <option name="SEARCH_SCOPE" value="Plat_SRC" />
+    <option name="customScope" value="PLAT_ASSETS" />
+    <option name="defaultScopeName" value="PLAT_ASSETS" />
+    <option name="SEARCH_SCOPE" value="PLAT_ASSETS" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>з*.js</mask>
-      <mask>*.js</mask>
       <mask>p*.js</mask>
       <mask>pa*.js</mask>
       <mask>pay*.js</mask>
@@ -34,6 +33,8 @@
       <mask>*.e</mask>
       <mask>*.es</mask>
       <mask>*.es6</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
