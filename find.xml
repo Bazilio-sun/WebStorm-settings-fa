@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="PLAT_ASSETS" />
     <option name="defaultScopeName" value="PLAT_ASSETS" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="PLAT_ASSETS" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>p*.js</mask>
       <mask>pa*.js</mask>
