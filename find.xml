@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="PLAT_ASSETS" />
     <option name="defaultScopeName" value="PLAT_ASSETS" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="PLAT_ASSETS" />
     <recentFileMasks>
       <mask>paymen*.js</mask>
