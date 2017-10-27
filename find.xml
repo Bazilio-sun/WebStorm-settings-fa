@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="PLAT_ASSETS" />
     <option name="defaultScopeName" value="PLAT_ASSETS" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="PLAT_ASSETS" />
     <recentFileMasks>
       <mask>paymen*.js</mask>
