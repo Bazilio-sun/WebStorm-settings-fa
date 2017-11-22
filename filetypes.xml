@@ -5,6 +5,7 @@
       <mapping pattern="Логирование запросов Waterline" type="Markdown" />
       <mapping pattern="1992" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="PLAT-2111" type="PLAIN_TEXT" />
       <mapping pattern="Задачи по фильтрам" type="PLAIN_TEXT" />
       <mapping pattern="Тест_angular" type="PLAIN_TEXT" />
       <mapping ext="p7s" type="PLAIN_TEXT" />
