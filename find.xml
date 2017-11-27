@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Plat_SRC" />
-    <option name="defaultScopeName" value="Plat_SRC" />
-    <option name="SEARCH_SCOPE" value="Plat_SRC" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <recentFileMasks>
       <mask>paymen*.js</mask>
       <mask>payment*.js</mask>
