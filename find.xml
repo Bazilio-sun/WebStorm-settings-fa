@@ -1,8 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="PLAT_ASSETS" />
     <option name="defaultScopeName" value="PLAT_ASSETS" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="PLAT_ASSETS" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>paymen*.js</mask>
       <mask>payment*.js</mask>
@@ -31,9 +36,9 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.html</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
