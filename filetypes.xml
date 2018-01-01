@@ -12,6 +12,7 @@
       <mapping ext="find с ограничением столбцов" type="PLAIN_TEXT" />
       <mapping ext="p7s" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="ossltxt" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
