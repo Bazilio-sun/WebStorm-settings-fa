@@ -19,7 +19,7 @@
   <extensionMap>
     <mapping ext="openssl" />
     <mapping ext="cnf" />
-    <mapping ext="config" />
     <mapping ext="cfg" />
+    <mapping ext="config" />
   </extensionMap>
 </filetype>
