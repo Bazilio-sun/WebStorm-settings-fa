@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../migrations/2017-12-29-recalc-payment-isRecognized/index.es6 [platform]'" />
     <option name="defaultScopeName" value="File '.../migrations/2017-12-29-recalc-payment-isRecognized/index.es6 [platform]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../migrations/2017-12-29-recalc-payment-isRecognized/index.es6 [platform]'" />
   </component>
 </application>
