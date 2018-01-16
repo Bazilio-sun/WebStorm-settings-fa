@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../migrations/2017-12-29-recalc-payment-isRecognized/index.es6 [platform]'" />
-    <option name="defaultScopeName" value="File '.../migrations/2017-12-29-recalc-payment-isRecognized/index.es6 [platform]'" />
-    <option name="SEARCH_SCOPE" value="File '.../migrations/2017-12-29-recalc-payment-isRecognized/index.es6 [platform]'" />
+    <option name="customScope" value="Project 'platform'" />
+    <option name="defaultScopeName" value="Project 'platform'" />
+    <option name="SEARCH_SCOPE" value="Project 'platform'" />
   </component>
 </application>
