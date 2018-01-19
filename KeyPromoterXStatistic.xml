@@ -273,6 +273,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Undo Delete">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Delete</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Undo Typing">
         <Item>
           <IdeaActionID>$Undo</IdeaActionID>
