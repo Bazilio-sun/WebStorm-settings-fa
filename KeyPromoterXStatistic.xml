@@ -166,7 +166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>53</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -238,7 +238,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -254,7 +254,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>69</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● sails --silly'">
@@ -310,7 +310,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>54</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Delete">
