@@ -86,4 +86,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="aae" value="async.auto({&#10;    fn1: (callback) =&gt; {&#10;        callback(err,'result1');&#10;        $END$&#10;    },&#10;    fn2: [&quot;fn1&quot;, (callback, scope) =&gt; {&#10;        const result1 = scope.fn1;&#10;        callback(err,'result2');&#10;    }]&#10;}, (err, scope) =&gt; {&#10;    OutCallback(err, scope.fn2)&#10;});" description="async.auto for es6" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="aaj" value="async.auto({&#10;    fn1: function (callback) {&#10;        callback(err,'result1');&#10;        $END$&#10;    },&#10;    fn2: [&quot;fn1&quot;, function (callback, scope) {&#10;        var result1 = scope.fn1;&#10;        callback(err,'result2');&#10;    }]&#10;}, function (err, scope) {&#10;    OutCallback(err, scope.fn2)&#10;});" description="async.auto for js" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
