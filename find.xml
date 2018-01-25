@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../api/services/ParsingService.js [platform]'" />
-    <option name="defaultScopeName" value="File '.../api/services/ParsingService.js [platform]'" />
-    <option name="SEARCH_SCOPE" value="File '.../api/services/ParsingService.js [platform]'" />
+    <option name="customScope" value="PLAT_SRC_WO_ASSETS" />
+    <option name="defaultScopeName" value="PLAT_SRC_WO_ASSETS" />
+    <option name="SEARCH_SCOPE" value="PLAT_SRC_WO_ASSETS" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
