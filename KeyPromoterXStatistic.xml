@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Comment with Line Comment">
+        <Item>
+          <IdeaActionID>CommentByLineComment</IdeaActionID>
+          <ShortCut>'Ctrl+Slash' or 'Ctrl+NumPad /'</ShortCut>
+          <Description>Comment with Line Comment</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
