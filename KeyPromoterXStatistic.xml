@@ -145,14 +145,6 @@
           <Count>173</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Delete">
-        <Item>
-          <IdeaActionID>$Delete</IdeaActionID>
-          <ShortCut>'Delete'</ShortCut>
-          <Description>Delete</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Edit Source">
         <Item>
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
@@ -334,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'SUR'</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Sails-RU'">
@@ -374,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '● worker URGENT'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
@@ -414,7 +406,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>58</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -470,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker URGENT'">
@@ -486,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>203</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -582,7 +574,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -609,6 +601,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● worker URGENT'</Description>
           <Count>104</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete</Description>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
