@@ -313,6 +313,14 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CALC (MY)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'CALC (MY)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DEV'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
