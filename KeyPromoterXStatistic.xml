@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>137</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -383,6 +383,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'inject-sql-log.sh'</Description>
           <Count>110</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'isEmpty_isEqual.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'isEmpty_isEqual.js'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '● worker URGENT'">
