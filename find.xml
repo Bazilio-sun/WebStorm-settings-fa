@@ -1,12 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="PLAT_WITH_TESTS" />
-    <option name="defaultScopeName" value="PLAT_WITH_TESTS" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="PLAT_WITH_TESTS" />
+    <option name="customScope" value="PLAT_ASSETS" />
+    <option name="defaultScopeName" value="PLAT_ASSETS" />
+    <option name="SEARCH_SCOPE" value="PLAT_ASSETS" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
