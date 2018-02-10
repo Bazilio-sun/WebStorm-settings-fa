@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails --silly'</Description>
-          <Count>16</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '● sails'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>54</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '● worker R'">
@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>277</Count>
+          <Count>278</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -190,7 +190,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>70</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -206,7 +206,15 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>2</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Force Step Over">
+        <Item>
+          <IdeaActionID>ForceStepOver</IdeaActionID>
+          <ShortCut>'Alt+Shift+F8'</ShortCut>
+          <Description>Force Step Over</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -273,6 +281,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Redo Cut">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Redo Paste">
         <Item>
           <IdeaActionID>$Redo</IdeaActionID>
@@ -294,7 +310,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Typing</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -422,7 +438,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'inject-sql-log.sh'</Description>
-          <Count>201</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'isEmpty_isEqual.js'">
@@ -510,7 +526,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>595</Count>
+          <Count>650</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
@@ -566,7 +582,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>33</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● sails'">
@@ -574,7 +590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails'</Description>
-          <Count>62</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker URGENT'">
@@ -617,6 +633,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Undo">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Undo Backspace">
         <Item>
           <IdeaActionID>$Undo</IdeaActionID>
@@ -630,7 +654,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Cut</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Delete">
@@ -646,7 +670,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Paste</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Rollback Change">
@@ -662,7 +686,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Typing</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -686,7 +710,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
     </option>
