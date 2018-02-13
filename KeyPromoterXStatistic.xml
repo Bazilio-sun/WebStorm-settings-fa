@@ -70,7 +70,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TEST-T'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tst'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>348</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -438,7 +438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TEST-T'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'calc-plat-test.sh'">
@@ -566,7 +566,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -582,7 +582,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>112</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -590,7 +590,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>810</Count>
+          <Count>812</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
