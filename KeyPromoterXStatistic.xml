@@ -190,7 +190,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -318,7 +318,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Cut">
@@ -382,7 +382,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>47</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Install dependencies for platform/package.json'">
