@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'court_ms.js'</Description>
-          <Count>37</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scrape.js'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'court_ms.js'</Description>
-          <Count>16</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'm71128.es6'">
