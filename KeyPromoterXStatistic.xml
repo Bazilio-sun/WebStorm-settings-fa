@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>246</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -87,6 +87,14 @@
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
           <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '02-get-court-details'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '02-get-court-details'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -206,7 +214,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -230,7 +238,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -398,7 +406,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Install dependencies for platform/package.json'">
@@ -678,7 +686,15 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1012</Count>
+          <Count>1014</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '02-get-court-details'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '02-get-court-details'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
