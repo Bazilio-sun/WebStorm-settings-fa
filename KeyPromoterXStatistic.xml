@@ -110,7 +110,15 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-get-court-territory.es6'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '03-get-mir-court-territory.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '03-get-mir-court-territory.es6'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -254,7 +262,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>182</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -710,7 +718,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>143</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -718,7 +726,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1129</Count>
+          <Count>1150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '02-get-court-details'">
@@ -734,7 +742,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-get-court-territory.es6'</Description>
-          <Count>41</Count>
+          <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '03-get-mir-court-territory.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '03-get-mir-court-territory.es6'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
