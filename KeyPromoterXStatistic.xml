@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>255</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-most-territory'</Description>
-          <Count>20</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>431</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -742,7 +742,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1190</Count>
+          <Count>1192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '02-get-court-details'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-most-territory'</Description>
-          <Count>18</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
@@ -974,7 +974,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Paste</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Rollback Change">
@@ -990,7 +990,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Typing</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
