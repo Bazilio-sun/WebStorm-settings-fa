@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>302</Count>
+          <Count>306</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '01-courts-list'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '02-court-details'">
@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-most-territory'</Description>
-          <Count>76</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>476</Count>
+          <Count>477</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -766,7 +766,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1315</Count>
+          <Count>1328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '01-courts-list'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '01-courts-list'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '02-court-details'">
@@ -814,7 +814,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-most-territory'</Description>
-          <Count>63</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
