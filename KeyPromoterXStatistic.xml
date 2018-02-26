@@ -145,6 +145,14 @@
           <Count>141</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '04-get-fs-court-territory.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '04-get-fs-court-territory.es6'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -831,6 +839,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-most-territory'</Description>
           <Count>106</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '04-get-fs-court-territory.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '04-get-fs-court-territory.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
