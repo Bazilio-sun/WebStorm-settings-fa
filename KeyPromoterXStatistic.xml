@@ -553,6 +553,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '04-get-fs-court-territory.es6'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '04-get-fs-court-territory.es6'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CALC (MY)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
