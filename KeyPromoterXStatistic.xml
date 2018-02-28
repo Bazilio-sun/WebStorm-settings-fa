@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>316</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -103,6 +103,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '01-courts-list'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '02-01-COT-2-COTR.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '02-01-COT-2-COTR.es6'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '02-court-details'">
@@ -270,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>503</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -825,6 +833,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '02-01-COT-2-COTR.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '02-01-COT-2-COTR.es6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '02-court-details'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1014,7 +1030,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>261</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
