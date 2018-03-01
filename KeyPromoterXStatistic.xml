@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>318</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'server.es6'</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tst'">
@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>513</Count>
+          <Count>514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -990,7 +990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'server.es6'</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tst'">
