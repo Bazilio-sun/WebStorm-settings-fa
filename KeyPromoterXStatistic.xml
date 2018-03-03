@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '02-01-court-details.es6'</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '02-court-details'">
@@ -494,7 +494,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Typing</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -894,7 +894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '02-01-court-details.es6'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '02-court-details'">
