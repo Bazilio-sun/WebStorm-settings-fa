@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>324</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>531</Count>
+          <Count>533</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
