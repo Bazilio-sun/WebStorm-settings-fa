@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>328</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '04-get-fs-court-territory.es6'</Description>
-          <Count>146</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -406,6 +406,14 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Watch Down">
+        <Item>
+          <IdeaActionID>XDebugger.MoveWatchDown</IdeaActionID>
+          <ShortCut>'Alt+Down'</ShortCut>
+          <Description>Move Watch Down</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -862,7 +870,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -966,7 +974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-get-fs-court-territory.es6'</Description>
-          <Count>107</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
