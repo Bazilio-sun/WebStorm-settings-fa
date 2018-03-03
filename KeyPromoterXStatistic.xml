@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>326</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '02-01-court-details.es6'</Description>
-          <Count>19</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '02-court-details'">
@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>534</Count>
+          <Count>538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -342,7 +342,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>235</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -398,6 +398,14 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Watch Up">
+        <Item>
+          <IdeaActionID>XDebugger.MoveWatchUp</IdeaActionID>
+          <ShortCut>'Alt+Up'</ShortCut>
+          <Description>Move Watch Up</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -846,7 +854,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -894,7 +902,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '02-01-court-details.es6'</Description>
-          <Count>14</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '02-court-details'">
@@ -1150,7 +1158,15 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Paste</Description>
-          <Count>30</Count>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Replace">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Replace</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Rollback Change">
