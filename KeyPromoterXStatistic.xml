@@ -78,7 +78,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>147</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '04-get-fs-court-territory.es6'</Description>
-          <Count>140</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>545</Count>
+          <Count>546</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -966,7 +966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-get-fs-court-territory.es6'</Description>
-          <Count>101</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
