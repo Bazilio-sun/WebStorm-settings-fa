@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -167,14 +167,6 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-most-territory'</Description>
           <Count>141</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug '04-00-01-parse-cotr.es6'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug '04-00-01-parse-cotr.es6'</Description>
-          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '04-00-parse-cotr.es6'">
@@ -390,7 +382,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>285</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -1073,14 +1065,6 @@
           <Count>106</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop '04-00-01-parse-cotr.es6'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop '04-00-01-parse-cotr.es6'</Description>
-          <Count>83</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop '04-00-parse-cotr.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1459,6 +1443,14 @@
           <Count>189</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '04-00-01-parse-cotr.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '04-00-01-parse-cotr.es6'</Description>
+          <Count>121</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'get-court-details.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1577,6 +1569,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>1742</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '04-00-01-parse-cotr.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '04-00-01-parse-cotr.es6'</Description>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
