@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>373</Count>
+          <Count>374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '04-00-01-parse-cotr.es6'</Description>
-          <Count>82</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '04-00-parse-cotr.es6'">
@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>638</Count>
+          <Count>640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -390,7 +390,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>282</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -942,7 +942,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-01-parse-cotr.es6'</Description>
-          <Count>62</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-00-parse-cotr.es6'">
