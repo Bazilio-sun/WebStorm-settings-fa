@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>640</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -622,7 +622,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Install dependencies for platform/package.json'">
@@ -695,6 +695,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '03-most-territory'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '04-00-01-parse-cotr.es6'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '04-00-01-parse-cotr.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '04-00-parse-cotr.es6'">
@@ -982,7 +990,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>168</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '01-court-list.es6'">
