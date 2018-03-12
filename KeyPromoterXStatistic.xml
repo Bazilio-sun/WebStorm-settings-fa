@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>198</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '04-00-parse-cotr.es6'</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '04-01-parse-place.es6'">
@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>694</Count>
+          <Count>696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>291</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
