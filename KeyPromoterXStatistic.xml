@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>196</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -286,7 +286,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'server.es6'</Description>
-          <Count>123</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 't.es6'">
@@ -382,7 +382,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>301</Count>
+          <Count>302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'server.es6'</Description>
-          <Count>142</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sql2.es6'">
