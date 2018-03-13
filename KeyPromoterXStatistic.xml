@@ -622,7 +622,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Install dependencies for platform/package.json'">
