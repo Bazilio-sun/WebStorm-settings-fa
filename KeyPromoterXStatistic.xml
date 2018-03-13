@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '04-00-parse-cotr.es6'</Description>
-          <Count>71</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '04-01-parse-place.es6'">
@@ -286,7 +286,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'server.es6'</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 't.es6'">
@@ -382,7 +382,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>314</Count>
+          <Count>315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-parse-cotr.es6'</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-01-parse-place.es6'">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'server.es6'</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sql2.es6'">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>292</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
