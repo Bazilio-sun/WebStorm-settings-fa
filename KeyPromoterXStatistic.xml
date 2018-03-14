@@ -686,7 +686,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '03-02-COT-2-COTR.es6'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '03-get-court-territory.es6'">
@@ -1055,6 +1055,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-01-most-territory.es6'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '03-02-COT-2-COTR.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '03-02-COT-2-COTR.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
