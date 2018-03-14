@@ -366,7 +366,7 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Source</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>87</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● sails'">
@@ -1438,7 +1438,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>168</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
