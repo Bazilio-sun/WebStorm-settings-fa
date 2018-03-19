@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="Логирование запросов Waterline" type="Markdown" />
+      <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="1992" type="PLAIN_TEXT" />
       <mapping pattern="Результат обработки 227 платежей" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping ext="find с ограничением столбцов" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="ossltxt" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
