@@ -78,7 +78,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>215</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>779</Count>
+          <Count>780</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -367,6 +367,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>52</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Directory Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
+          <Description>Directory Path</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -654,7 +662,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>169</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Install dependencies for platform/package.json'">
