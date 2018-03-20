@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>435</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -225,6 +225,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TEST'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TEST'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TEST-T'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>763</Count>
+          <Count>764</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -350,7 +358,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -793,6 +801,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TEST'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TEST'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'TEST-T'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1151,6 +1167,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MIGRATION'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TEST'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TEST'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TEST-T'">
