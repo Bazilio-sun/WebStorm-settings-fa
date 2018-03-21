@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -590,7 +590,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Delete Line</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Duplicate Line or Selection">
@@ -1430,7 +1430,15 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Delete</Description>
-          <Count>21</Count>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Delete Line">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Delete Line</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Inline variable">
