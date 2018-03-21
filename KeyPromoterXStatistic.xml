@@ -94,7 +94,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>225</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -550,7 +550,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Backspace">
