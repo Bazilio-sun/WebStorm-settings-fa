@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>449</Count>
+          <Count>450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -54,7 +54,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -217,6 +217,14 @@
           <Count>224</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '05-00-check-by-fias.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '05-00-check-by-fias.es6'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'server.es6'</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 't.es6'">
@@ -366,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>792</Count>
+          <Count>796</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -414,7 +422,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>328</Count>
+          <Count>334</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>116</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1177,6 +1185,14 @@
           <Count>149</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '05-00-check-by-fias.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '05-00-check-by-fias.es6'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1310,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'server.es6'</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sql2.es6'">
