@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-00-check-by-fias.es6'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -670,7 +670,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>179</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Install dependencies for platform/package.json'">
@@ -694,7 +694,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>154</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>203</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
