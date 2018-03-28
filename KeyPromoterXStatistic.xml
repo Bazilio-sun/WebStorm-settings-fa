@@ -102,7 +102,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>259</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-00-check-by-fias.es6'</Description>
-          <Count>102</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MIGRATION'">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-00-check-by-fias.es6'</Description>
-          <Count>80</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>222</Count>
+          <Count>224</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
