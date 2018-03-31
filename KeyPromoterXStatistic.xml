@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>475</Count>
+          <Count>476</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>864</Count>
+          <Count>865</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1535,6 +1535,14 @@
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Reload From Disk</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Renaming file db2.es6 to db.es...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Renaming file db2.es6 to db.es...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Renaming file last-cotr-recogn...">
