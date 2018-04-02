@@ -1046,7 +1046,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -1182,7 +1182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-02-most-pay-rec.es6'</Description>
-          <Count>101</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
