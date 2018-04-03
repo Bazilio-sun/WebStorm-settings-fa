@@ -105,14 +105,6 @@
           <Count>298</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>79</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1590,7 +1582,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>253</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -1617,6 +1609,14 @@
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
           <Count>189</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-02-most-pay-rec.es6'">
