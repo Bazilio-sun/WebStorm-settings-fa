@@ -881,6 +881,14 @@
           <Count>50</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '__t.es6'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '__t.es6'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'calc-plat-test.sh'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
