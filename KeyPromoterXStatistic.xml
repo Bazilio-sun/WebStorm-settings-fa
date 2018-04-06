@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1027</Count>
+          <Count>1029</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +422,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>437</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -718,7 +718,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '01-get-courts-list'">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>147</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1182,7 +1182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-02-most-pay-rec.es6'</Description>
-          <Count>290</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>264</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
