@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1034</Count>
+          <Count>1046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -462,7 +462,7 @@
           <IdeaActionID>ForceStepOver</IdeaActionID>
           <ShortCut>'Alt+Shift+F8'</ShortCut>
           <Description>Force Step Over</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -886,7 +886,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '__t.es6'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'calc-plat-test.sh'">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '01-court-list.es6'">
@@ -1182,7 +1182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-02-most-pay-rec.es6'</Description>
-          <Count>309</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
