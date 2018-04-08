@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1088</Count>
+          <Count>1090</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1651,6 +1651,14 @@
           <Count>121</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '___t.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '___t.es6'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'get-court-details.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1793,6 +1801,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-01-parse-cotr.es6'</Description>
           <Count>95</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '___t.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '___t.es6'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'server.es6'">
