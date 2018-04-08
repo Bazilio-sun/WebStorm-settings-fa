@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1082</Count>
+          <Count>1084</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-02-most-pay-rec.es6'</Description>
-          <Count>374</Count>
+          <Count>380</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>269</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
