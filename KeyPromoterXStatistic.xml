@@ -686,7 +686,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>227</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1022,6 +1022,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'tst'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ПРИМЕРЫ.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ПРИМЕРЫ.js'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
