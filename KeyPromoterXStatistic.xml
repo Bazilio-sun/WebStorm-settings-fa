@@ -358,7 +358,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '● worker R'">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1166</Count>
+          <Count>1170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>193</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '01-court-list.es6'">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
     </option>
