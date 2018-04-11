@@ -233,14 +233,6 @@
           <Count>110</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'DEV (sx)'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'DEV (sx)'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'DEV'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1675,6 +1667,14 @@
           <Count>121</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DEV (sx)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DEV (sx)'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '___t.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1825,6 +1825,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-01-parse-cotr.es6'</Description>
           <Count>95</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DEV (sx)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DEV (sx)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '___t.es6'">
