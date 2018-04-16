@@ -777,14 +777,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run '03-02-most-pay-rec.es6'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run '03-02-most-pay-rec.es6'</Description>
-          <Count>22</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run '03-get-court-territory.es6'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1134,7 +1126,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>201</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1777,6 +1769,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>1264</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '03-02-most-pay-rec.es6'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '03-02-most-pay-rec.es6'</Description>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MIGRATION'">
