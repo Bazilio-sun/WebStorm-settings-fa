@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>785</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>357</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1294</Count>
+          <Count>1302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1145,14 +1145,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Step Into">
-        <Item>
-          <IdeaActionID>StepInto</IdeaActionID>
-          <ShortCut>'F7'</ShortCut>
-          <Description>Step Into</Description>
-          <Count>239</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop '01-court-list.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1833,6 +1825,14 @@
           <ShortCut>'Ctrl+S'</ShortCut>
           <Description>Save All</Description>
           <Count>57</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
