@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>840</Count>
+          <Count>844</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>363</Count>
+          <Count>366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1356</Count>
+          <Count>1362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -430,7 +430,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>526</Count>
+          <Count>531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>207</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
