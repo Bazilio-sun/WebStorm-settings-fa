@@ -334,7 +334,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'stat-cached-pages.es6'</Description>
-          <Count>6</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 't.es6'">
@@ -438,7 +438,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>534</Count>
+          <Count>535</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -743,14 +743,6 @@
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>36</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '01-get-courts-list'">
@@ -1422,7 +1414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'stat-cached-pages.es6'</Description>
-          <Count>4</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tst'">
@@ -1638,7 +1630,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>297</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -1646,7 +1638,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
     </option>
@@ -1771,6 +1763,12 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Pause Program">
+        <Item>
+          <IdeaActionID>Pause</IdeaActionID>
+          <Description>Pause Program</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Watch">
         <Item>
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
@@ -1785,6 +1783,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>1264</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '03-02-most-pay-rec.es6'">
