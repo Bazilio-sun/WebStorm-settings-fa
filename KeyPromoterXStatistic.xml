@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>852</Count>
+          <Count>853</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -329,6 +329,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'stat-cached-pages.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'stat-cached-pages.es6'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 't.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1384</Count>
+          <Count>1386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1407,6 +1415,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sql2.es6'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'stat-cached-pages.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'stat-cached-pages.es6'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tst'">
