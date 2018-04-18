@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -334,7 +334,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'stat-cached-pages.es6'</Description>
-          <Count>21</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 't.es6'">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1386</Count>
+          <Count>1387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>214</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'stat-cached-pages.es6'</Description>
-          <Count>19</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tst'">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>298</Count>
+          <Count>299</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
