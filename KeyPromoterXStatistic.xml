@@ -422,7 +422,7 @@
           <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
