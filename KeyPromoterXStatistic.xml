@@ -702,7 +702,7 @@
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Refresh</Description>
-          <Count>11</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -1063,6 +1063,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '● worker URGENT'</Description>
           <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Gulp/Grunt/npm Task">
+        <Item>
+          <IdeaActionID>RunJsbtTask</IdeaActionID>
+          <ShortCut>'Alt+F11'</ShortCut>
+          <Description>Run Gulp/Grunt/npm Task</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
