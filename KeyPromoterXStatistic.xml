@@ -521,14 +521,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Move Watch Up">
-        <Item>
-          <IdeaActionID>XDebugger.MoveWatchUp</IdeaActionID>
-          <ShortCut>'Alt+Up'</ShortCut>
-          <Description>Move Watch Up</Description>
-          <Count>35</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="New Folder...">
         <Item>
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
@@ -1745,6 +1737,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Watch Up">
+        <Item>
+          <IdeaActionID>XDebugger.MoveWatchUp</IdeaActionID>
+          <ShortCut>'Alt+Up'</ShortCut>
+          <Description>Move Watch Up</Description>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
