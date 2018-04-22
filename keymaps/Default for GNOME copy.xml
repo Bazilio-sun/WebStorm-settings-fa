@@ -9,4 +9,7 @@
     <keyboard-shortcut first-keystroke="f8" />
     <mouse-shortcut keystroke="shift button142" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
 </keymap>
