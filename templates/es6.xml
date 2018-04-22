@@ -104,7 +104,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="f" value="function ($arguments$) { $END$ }" description="Functions: anonymous function" toReformat="false" toShortenFQNames="true">
+  <template name="f" value="function ($arguments$) { &#10;    $END$ &#10;}" description="Functions: anonymous function" toReformat="false" toShortenFQNames="true">
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -177,15 +177,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".fe" value="$iterable$.forEach(($item$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  forEach loop (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="fe" value="$iterable$.forEach(($value$, $index$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  forEach loop (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression=" " defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".map" value="$iterable$.map(($value$, $index$) =&gt; {&#10;  return $END$&#10;});" description="Iterables: map function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="map" value="$iterable$.map(($value$, $index$) =&gt; {&#10;  return $END$&#10;});" description="Iterables: map function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
@@ -194,7 +195,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".reduce" value="$iterable$.reduce(($previous$, $current$) =&gt; {&#10;  return $body$&#10;}, $initial$);" description="Iterables: reduce function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="reduce" value="$iterable$.reduce(($previous$, $current$) =&gt; {&#10;  return $body$&#10;}, $initial$);" description="Iterables: reduce function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="previous" expression="" defaultValue="&quot;previous&quot;" alwaysStopAt="true" />
     <variable name="current" expression="" defaultValue="&quot;current&quot;" alwaysStopAt="true" />
@@ -205,7 +206,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".filter" value="$iterable$.filter(($value$, $index$) =&gt; {&#10;  // return true to remove item from collection&#10;  $END$&#10;});" description="Iterables: filter function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="filter" value="$iterable$.filter(($value$, $index$) =&gt; {&#10;  // return true to remove item from collection&#10;  $END$&#10;});" description="Iterables: filter function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
@@ -214,7 +215,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".find" value="$iterable$.find(($value$, $index$) =&gt; {&#10;  // return true to find single item if it is in the collection&#10;  $END$&#10;});" description="Iterables: ES6 find function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="find" value="$iterable$.find(($value$, $index$) =&gt; {&#10;  // return true to find single item if it is in the collection&#10;  $END$&#10;});" description="Iterables: ES6 find function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
@@ -346,7 +347,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="D" value="Date" description="Types: Date" toReformat="false" toShortenFQNames="true">
+  <template name="D___" value="Date" description="Types: Date" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -380,7 +381,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".then" value="$promise$.then(($value$) =&gt; {&#10;  $END$&#10;});" description="Promises: Promise.then (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="then" value="$promise$.then(($value$) =&gt; {&#10;  $END$&#10;});" description="Promises: Promise.then (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="promise" expression="" defaultValue="promise" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="value" alwaysStopAt="true" />
     <context>
@@ -388,7 +389,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".catch" value="$promise$.catch(($err$) =&gt; {&#10;  $END$&#10;});" description="Promises: Promise.catch (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="catch" value="$promise$.catch(($err$) =&gt; {&#10;  $END$&#10;});" description="Promises: Promise.catch (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="promise" expression="" defaultValue="promise" alwaysStopAt="true" />
     <variable name="err" expression="" defaultValue="err" alwaysStopAt="true" />
     <context>

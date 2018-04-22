@@ -35,7 +35,7 @@
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="initial" expression="" defaultValue="&quot;initial&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
-   <context>
+    <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
@@ -50,5 +50,4 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-
 </templateSet>
