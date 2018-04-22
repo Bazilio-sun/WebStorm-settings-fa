@@ -1,0 +1,54 @@
+<templateSet group="lodash">
+  <template name="_.ea" value="_.each($iterable$, ($item$, $name$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  _.each loop (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="const $VAR$ = _.find" value="_.find($iterable$, ($item$, $name$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  _.find loop (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="const $VAR$ = _.map" value="_.map($iterable$, ($item$, $name$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  _.map loop (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="const $VAR$ = _.reduce" value="const $VAR$ = _.reduce($iterable$, ($previous$, $current$, $name$) =&gt; {&#10;  $END$&#10;}, $initial$);" description="Iterables:  _.reduce loop (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="jsArrayVariable()" defaultValue="&quot;arrayOrObject&quot;" alwaysStopAt="true" />
+    <variable name="previous" expression="" defaultValue="&quot;previous&quot;" alwaysStopAt="true" />
+    <variable name="current" expression="" defaultValue="&quot;current&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="initial" expression="" defaultValue="&quot;initial&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
+   <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="const $VAR$ = _.some" value="_.some($iterable$, ($item$, $name$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  _.some loop (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+
+</templateSet>
