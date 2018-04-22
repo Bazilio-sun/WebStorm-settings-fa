@@ -53,6 +53,10 @@
   <template name="ei" value="else if ($condition$) {&#10;  $end$&#10;}" description="Flow Control: else if statement" toReformat="false" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
   </template>
   <template name="fi" value="for (let $key$ in $source$) {&#10;  if ($source$.hasOwnProperty($key$)) {&#10;    $END$ &#10;  }&#10;}" description="Flow Control: for in loop" toReformat="false" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
