@@ -518,7 +518,7 @@
           <IdeaActionID>XDebugger.MoveWatchDown</IdeaActionID>
           <ShortCut>'Alt+Down'</ShortCut>
           <Description>Move Watch Down</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
