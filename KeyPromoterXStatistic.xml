@@ -910,7 +910,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '___t.es6'</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '__t.es6'">
