@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1099</Count>
+          <Count>1104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1645</Count>
+          <Count>1648</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>258</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
