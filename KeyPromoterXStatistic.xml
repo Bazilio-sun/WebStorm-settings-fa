@@ -169,6 +169,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '03-02-COT-2-COTR.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '03-02-COT-2-COTR.es6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '03-get-court-territory.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -558,7 +566,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1142,7 +1150,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>272</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1478,7 +1486,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
