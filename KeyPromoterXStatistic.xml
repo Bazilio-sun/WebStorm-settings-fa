@@ -358,7 +358,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'transform-wo-2-kp.es6'</Description>
-          <Count>84</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tst'">
@@ -1065,14 +1065,6 @@
           <Count>15</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'transform-wo-2-kp.es6'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'transform-wo-2-kp.es6'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'tst'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1462,7 +1454,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'transform-wo-2-kp.es6'</Description>
-          <Count>63</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tst'">
