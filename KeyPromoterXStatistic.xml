@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1742</Count>
+          <Count>1744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>93</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -1393,6 +1393,14 @@
           <Count>83</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'debt.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'debt.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'get-court-details.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1502,7 +1510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>333</Count>
+          <Count>334</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1510,7 +1518,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>59</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
