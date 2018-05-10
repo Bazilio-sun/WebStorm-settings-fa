@@ -110,7 +110,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>422</Count>
+          <Count>423</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-01-most-territory.es6'</Description>
-          <Count>17</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-02-COT-2-COTR.es6'">
@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1779</Count>
+          <Count>1781</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-01-most-territory.es6'</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-02-COT-2-COTR.es6'">
