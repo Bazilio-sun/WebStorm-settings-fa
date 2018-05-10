@@ -110,7 +110,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>419</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Source</Description>
-          <Count>42</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>328</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
