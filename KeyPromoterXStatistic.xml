@@ -1214,7 +1214,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>212</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>331</Count>
+          <Count>332</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
