@@ -1542,7 +1542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker URGENT'">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>370</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
