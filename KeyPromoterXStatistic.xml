@@ -462,7 +462,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>586</Count>
+          <Count>587</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -582,7 +582,7 @@
           <IdeaActionID>VcsShowNextChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Down'</ShortCut>
           <Description>Next Change</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -598,7 +598,7 @@
           <IdeaActionID>VcsShowPrevChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Up'</ShortCut>
           <Description>Previous Change</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1158,7 +1158,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '● worker URGENT'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Gulp/Grunt/npm Task">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>218</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>283</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
     </option>
