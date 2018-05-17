@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1287</Count>
+          <Count>1292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -847,6 +847,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '03-02-COT-2-COTR.es6'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '03-02-most-pay-rec.e...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '03-02-most-pay-rec.e...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '03-get-court-territory.es6'">
@@ -1726,7 +1734,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
     </option>
