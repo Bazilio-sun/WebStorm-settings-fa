@@ -209,6 +209,14 @@
           <Count>141</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '04-00-parse-cotr.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1254,7 +1262,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>290</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1359,6 +1367,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-most-territory'</Description>
           <Count>106</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-00-parse-cotr.es6'">
