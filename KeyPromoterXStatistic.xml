@@ -1374,7 +1374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-00-parse-cotr.es6'">
