@@ -209,14 +209,6 @@
           <Count>141</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
-          <Count>106</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug '04-00-parse-cotr.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1369,14 +1361,6 @@
           <Count>106</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
-          <Count>91</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop '04-00-parse-cotr.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1803,6 +1787,14 @@
           <Count>77</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
+          <Count>108</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '04-00-01-parse-cotr.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -2015,6 +2007,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-02-most-pay-rec.es6'</Description>
           <Count>675</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '04-00-01-parse-cotr-NOTE-(perRowMode=false).es6'</Description>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-00-01-parse-cotr.es6'">
