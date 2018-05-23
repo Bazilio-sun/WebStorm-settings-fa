@@ -209,14 +209,6 @@
           <Count>141</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug '04-00-parse-cotr.es6'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug '04-00-parse-cotr.es6'</Description>
-          <Count>118</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug '04-01-parse-place.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -414,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1858</Count>
+          <Count>1862</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -462,7 +454,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>603</Count>
+          <Count>606</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1262,7 +1254,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>307</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1374,7 +1366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-parse-cotr.es6'</Description>
-          <Count>73</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-01-parse-place.es6'">
@@ -1817,6 +1809,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '04-00-01-parse-cotr.es6'</Description>
           <Count>121</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '04-00-parse-cotr.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '04-00-parse-cotr.es6'</Description>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV (sx)'">
