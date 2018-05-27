@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1935</Count>
+          <Count>1936</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
