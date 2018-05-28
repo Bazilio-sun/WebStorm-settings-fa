@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1955</Count>
+          <Count>1956</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1774,7 +1774,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
     </option>
