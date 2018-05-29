@@ -390,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails --silly'</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '● sails'">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>117</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker R'">
