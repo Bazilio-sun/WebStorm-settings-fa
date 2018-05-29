@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>167</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1964</Count>
+          <Count>1969</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>261</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
