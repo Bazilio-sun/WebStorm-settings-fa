@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1456</Count>
+          <Count>1462</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -110,7 +110,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>461</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '01-court-list.es6'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-00-check-by-fias.es6'</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1972</Count>
+          <Count>1977</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1631,6 +1631,14 @@
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
           <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo">
