@@ -78,7 +78,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Paths">
@@ -167,6 +167,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '02-get-court-details'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '03-00-cache-most-territory-pages.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '03-00-cache-most-territory-pages.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-01-most-territory.es6'">
@@ -1335,6 +1343,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '02-get-court-details'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '03-00-cache-most-territory-pages.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '03-00-cache-most-territory-pages.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-01-most-territory.es6'">
