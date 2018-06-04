@@ -854,7 +854,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '03-01-most-territory...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '03-01-most-territory.es6'">
@@ -919,6 +919,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '04-00-parse-cotr.es6'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '04-00-parse-cotr.es6...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '04-00-parse-cotr.es6...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '04-01-parse-place.es6'">
@@ -1174,7 +1182,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
