@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1980</Count>
+          <Count>1981</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -830,6 +830,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '02-court-details'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '03-00-cache-most-territory-pages.es6'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '03-00-cache-most-territory-pages.es6'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
