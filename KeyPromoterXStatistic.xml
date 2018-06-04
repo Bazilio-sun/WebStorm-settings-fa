@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1465</Count>
+          <Count>1470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -774,7 +774,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>333</Count>
+          <Count>334</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
-          <Count>85</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
