@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1488</Count>
+          <Count>1501</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-00-check-by-fias.es6'</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -430,7 +430,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2003</Count>
+          <Count>2014</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -478,7 +478,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>641</Count>
+          <Count>642</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>333</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
