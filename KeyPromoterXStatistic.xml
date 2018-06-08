@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-03-tj-piter.es6'</Description>
-          <Count>84</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-get-court-territory.es6'">
@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2079</Count>
+          <Count>2080</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-03-tj-piter.es6'</Description>
-          <Count>28</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
