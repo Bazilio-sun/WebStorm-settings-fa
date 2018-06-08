@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-03-tj-piter.es6'</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-get-court-territory.es6'">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>345</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1846,7 +1846,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
     </option>
