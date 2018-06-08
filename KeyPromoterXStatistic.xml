@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-03-tj-piter.es6'</Description>
-          <Count>77</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-get-court-territory.es6'">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-03-tj-piter.es6'</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
