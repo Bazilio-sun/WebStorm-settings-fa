@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1577</Count>
+          <Count>1582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-03-tj-piter.es6'</Description>
-          <Count>159</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-get-court-territory.es6'">
@@ -486,7 +486,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>670</Count>
+          <Count>671</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>352</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '03-03-tj-piter.es6'</Description>
-          <Count>70</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '03-get-court-territory.es6'">
