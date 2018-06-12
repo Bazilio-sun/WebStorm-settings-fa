@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1623</Count>
+          <Count>1624</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2155</Count>
+          <Count>2158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -790,7 +790,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>354</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
