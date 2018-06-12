@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>191</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '03-03-tj-piter.es6'</Description>
-          <Count>261</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '03-get-court-territory.es6'">
@@ -446,7 +446,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -590,7 +590,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -790,7 +790,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>342</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>311</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
