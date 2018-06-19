@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1747</Count>
+          <Count>1748</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -422,7 +422,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>149</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2239</Count>
+          <Count>2240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -807,6 +807,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Install dependencies for platform/package.json'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'http://localhost:1337/api/parsings/parse'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'http://localhost:1337/api/parsings/parse'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -1334,7 +1342,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>365</Count>
+          <Count>366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
