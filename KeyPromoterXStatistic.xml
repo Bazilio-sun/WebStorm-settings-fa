@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1840</Count>
+          <Count>1841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>209</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2279</Count>
+          <Count>2280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
