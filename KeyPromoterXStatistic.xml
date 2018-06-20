@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2271</Count>
+          <Count>2273</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1238,7 +1238,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>378</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1886,7 +1886,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>68</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
     </option>
