@@ -673,6 +673,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Redo Comment with Line Comment">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Comment with Line Comment</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Redo Cut">
         <Item>
           <IdeaActionID>$Redo</IdeaActionID>
