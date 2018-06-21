@@ -1350,7 +1350,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>343</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
