@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>212</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -822,7 +822,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>379</Count>
+          <Count>381</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>345</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
