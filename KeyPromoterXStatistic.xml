@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>220</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -494,7 +494,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>704</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -630,7 +630,7 @@
           <IdeaActionID>VcsShowPrevChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Up'</ShortCut>
           <Description>Previous Change</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -646,7 +646,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -822,7 +822,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>381</Count>
+          <Count>382</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>358</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>384</Count>
+          <Count>385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1910,7 +1910,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>84</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
     </option>
