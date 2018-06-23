@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>221</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>385</Count>
+          <Count>386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
