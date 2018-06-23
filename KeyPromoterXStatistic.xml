@@ -1918,7 +1918,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
     </option>
