@@ -1,8 +1,6 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
-  </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/DEV/RC/_ss_platform/web/_ss/PLAT-2340" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>

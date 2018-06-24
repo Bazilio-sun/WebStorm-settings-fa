@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>228</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -118,7 +118,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>541</Count>
+          <Count>542</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 't2.js'</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'transform-wo-2-kp.es6'">
@@ -878,7 +878,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '01-get-courts-list'">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
-          <Count>124</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>372</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
