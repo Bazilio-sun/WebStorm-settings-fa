@@ -110,7 +110,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -1199,6 +1199,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'diff_obj.js'</Description>
           <Count>55</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'dump_key_tables.sh'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'dump_key_tables.sh'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'flush-redis-couch.sh'">
