@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1910</Count>
+          <Count>1912</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -281,6 +281,14 @@
           <Count>138</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '05-01-get-aoguid-by-name-from-dadata.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '05-01-get-aoguid-by-name-from-dadata.es6'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DEV'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2327</Count>
+          <Count>2329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1390,7 +1398,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>393</Count>
+          <Count>394</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1559,6 +1567,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-00-check-by-fias.es6'</Description>
           <Count>105</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '05-01-get-aoguid-by-name-from-dadata.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '05-01-get-aoguid-by-name-from-dadata.es6'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
