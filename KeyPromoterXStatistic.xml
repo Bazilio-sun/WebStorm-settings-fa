@@ -118,7 +118,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>553</Count>
+          <Count>554</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -279,6 +279,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-00-check-by-fias.es6'</Description>
           <Count>138</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '05-01-get-aoguid-by-name-from-dadata-2.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '05-01-get-aoguid-by-name-from-dadata-2.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '05-01-get-aoguid-by-name-from-dadata.es6'">
@@ -462,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2329</Count>
+          <Count>2330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1569,12 +1577,20 @@
           <Count>105</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '05-01-get-aoguid-by-name-from-dadata-2.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '05-01-get-aoguid-by-name-from-dadata-2.es6'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '05-01-get-aoguid-by-name-from-dadata.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-01-get-aoguid-by-name-from-dadata.es6'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
