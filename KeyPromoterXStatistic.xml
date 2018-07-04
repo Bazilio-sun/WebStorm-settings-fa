@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1947</Count>
+          <Count>1953</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -118,7 +118,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>569</Count>
+          <Count>570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -409,6 +409,14 @@
           <Count>91</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'dadatacache-key-normalize-test.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'dadatacache-key-normalize-test.es6'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'dadatacache-key-transform.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2350</Count>
+          <Count>2353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -878,7 +886,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>400</Count>
+          <Count>401</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1743,6 +1751,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'court_ms_p.es6'</Description>
           <Count>83</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'dadatacache-key-normalize-test.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'dadatacache-key-normalize-test.es6'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dadatacache-key-transform.es6'">
