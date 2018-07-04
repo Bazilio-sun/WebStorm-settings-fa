@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1935</Count>
+          <Count>1939</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -118,7 +118,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>564</Count>
+          <Count>567</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -281,6 +281,14 @@
           <Count>168</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '05-01-aoguid-from-dadata-parallel.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '05-01-aoguid-from-dadata-parallel.es6'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '05-01-get-aoguid-by-name-from-dadata-2.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'dadatacache-key-transform.es6'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'get-courts-list.es6'">
@@ -486,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2342</Count>
+          <Count>2344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -494,7 +502,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -534,7 +542,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>725</Count>
+          <Count>726</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -598,7 +606,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Right' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>77</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -606,7 +614,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -638,7 +646,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -862,7 +870,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>391</Count>
+          <Count>398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -902,7 +910,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1609,12 +1617,28 @@
           <Count>125</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '05-01-aoguid-from-dadata-parallel.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '05-01-aoguid-from-dadata-parallel.es6'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '05-01-get-aoguid-by-name-from-dadata-2.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-01-get-aoguid-by-name-from-dadata-2.es6'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '05-01-get-aoguid-by-name-from-dadata-parallel.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '05-01-get-aoguid-by-name-from-dadata-parallel.es6'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '05-01-get-aoguid-by-name-from-dadata.es6'">
@@ -1710,7 +1734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dadatacache-key-transform.es6'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'debt.js'">
