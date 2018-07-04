@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1954</Count>
+          <Count>1955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -414,7 +414,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'dadatacache-key-normalize-test.es6'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'dadatacache-key-transform.es6'">
@@ -510,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2359</Count>
+          <Count>2360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>403</Count>
+          <Count>409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-00-parse-cotr.es6'</Description>
-          <Count>102</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-01-parse-place.es6'">
