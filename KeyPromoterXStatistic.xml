@@ -1358,7 +1358,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
@@ -1390,7 +1390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '● worker URGENT'</Description>
-          <Count>88</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Gulp/Grunt/npm Task">
