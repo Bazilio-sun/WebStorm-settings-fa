@@ -278,7 +278,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-00-check-by-fias.es6'</Description>
-          <Count>186</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '05-01-aoguid-from-dadata-parallel.es6'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2405</Count>
+          <Count>2406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
