@@ -1470,7 +1470,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>403</Count>
+          <Count>404</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-00-check-by-fias.es6'</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '05-01-aoguid-from-dadata-parallel.es6'">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Paste</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Reformat Code">
