@@ -422,7 +422,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'dadatacache-key-normalize.es6'</Description>
-          <Count>47</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'dadatacache-key-transform.es6'">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'dadatacache-key-normalize.es6'</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'debt.js'">
@@ -1377,6 +1377,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'tables-backup.sh'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'tables-backup.sh'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'tst'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1454,7 +1462,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>109</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
