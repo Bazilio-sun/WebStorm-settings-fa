@@ -86,7 +86,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Paths">
@@ -1390,7 +1390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'test.sh'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tst'">
