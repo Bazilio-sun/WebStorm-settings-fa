@@ -18,6 +18,7 @@
       <mapping ext="find с ограничением столбцов" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="ossltxt" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
