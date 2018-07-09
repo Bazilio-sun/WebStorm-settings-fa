@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>267</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -118,7 +118,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>610</Count>
+          <Count>611</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2410</Count>
+          <Count>2412</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
