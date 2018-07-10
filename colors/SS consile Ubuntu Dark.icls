@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2018-07-10T11:00:34</property>
+    <property name="modified">2018-07-10T19:05:48</property>
     <property name="originalScheme">SS consile Darcula copy</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -22,12 +22,12 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="2871ff" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5394ec" />
+        <option name="FOREGROUND" value="4585ec" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
