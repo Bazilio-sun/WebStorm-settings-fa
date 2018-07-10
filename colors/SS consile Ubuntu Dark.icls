@@ -3,11 +3,11 @@
     <property name="created">2018-07-10T09:56:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2018-07-10T09:57:50</property>
+    <property name="modified">2018-07-10T10:08:16</property>
     <property name="originalScheme">SS consile Darcula copy</property>
   </metaInfo>
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
   </colors>
   <attributes>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -17,7 +17,7 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7eaef1" />
+        <option name="FOREGROUND" value="ff" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -25,19 +25,14 @@
         <option name="FOREGROUND" value="5394ec" />
       </value>
     </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="6cdada" />
-      </value>
-    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="299999" />
+        <option name="FOREGROUND" value="2cb5e9" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ffb3b3" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -45,49 +40,40 @@
         <option name="FOREGROUND" value="999999" />
       </value>
     </option>
-    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="a8c023" />
-      </value>
-    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
-      </value>
-    </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff99ff" />
+        <option name="FOREGROUND" value="39b54a" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ae8abe" />
+        <option name="FOREGROUND" value="762671" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff8785" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="de382b" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="e4e4ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="6ae96a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1f1f1f" />
+        <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -97,7 +83,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d6bf55" />
+        <option name="FOREGROUND" value="ffc706" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
