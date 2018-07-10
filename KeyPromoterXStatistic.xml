@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2038</Count>
+          <Count>2040</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -502,7 +502,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2414</Count>
+          <Count>2417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -566,7 +566,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>735</Count>
+          <Count>737</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'calc-plat.sh'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'court_ms.js'">
@@ -1329,14 +1329,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'flush-redis-couch.sh...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'flush-redis-couch.sh...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'get-court-details.es6'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1390,7 +1382,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'pfront.sh'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scrape.js'">
@@ -1462,7 +1454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '● worker URGENT'</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Gulp/Grunt/npm Task">
@@ -1534,7 +1526,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>423</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2359,6 +2351,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TEST'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'flush-redis-couch.sh...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'flush-redis-couch.sh...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'm71128.es6'">
