@@ -1206,7 +1206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'SUR'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Sails-RU'">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '● worker URGENT'</Description>
-          <Count>91</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Gulp/Grunt/npm Task">
