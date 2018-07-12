@@ -510,7 +510,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>187</Count>
+          <Count>191</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2445</Count>
+          <Count>2446</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'address.sh'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'cache-pack-and-uploa...'">
@@ -1807,6 +1807,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '__t.es6'</Description>
           <Count>63</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'address.sh'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'address.sh'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'calc-plat-test.sh'">
