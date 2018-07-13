@@ -110,7 +110,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>625</Count>
+          <Count>627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -902,7 +902,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>461</Count>
+          <Count>492</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1095,6 +1095,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '04-01-parse-place.es6'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '04-02-territory-78.e...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '04-02-territory-78.e...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '04-get-fs-court-terr...'">
