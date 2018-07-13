@@ -78,7 +78,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -118,7 +118,7 @@
           <IdeaActionID>CopyElement</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Copy...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -534,7 +534,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>108</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
