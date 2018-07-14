@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>285</Count>
+          <Count>288</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -558,7 +558,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>440</Count>
+          <Count>442</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
