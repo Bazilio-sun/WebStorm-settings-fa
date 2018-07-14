@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>650</Count>
+          <Count>652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -558,7 +558,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>114</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -926,7 +926,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>498</Count>
+          <Count>500</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
