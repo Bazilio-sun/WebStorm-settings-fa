@@ -926,7 +926,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>500</Count>
+          <Count>501</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'rfc.sh'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scrape.js'">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>448</Count>
+          <Count>449</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
