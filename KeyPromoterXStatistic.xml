@@ -550,7 +550,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2505</Count>
+          <Count>2506</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
