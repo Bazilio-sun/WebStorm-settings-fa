@@ -273,6 +273,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '04-02-territory-78.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '04-02-territory-78.es6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '04-get-fs-court-territory.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -598,7 +606,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>771</Count>
+          <Count>772</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1134,7 +1142,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '04-02-territory-78.e...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '04-get-fs-court-terr...'">
@@ -1799,6 +1807,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '04-02-parse-address.es6'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '04-02-territory-78.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '04-02-territory-78.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '04-get-fs-court-territory.es6'">
