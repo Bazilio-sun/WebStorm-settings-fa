@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>665</Count>
+          <Count>666</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '06-00-check-by-fias.es6'</Description>
-          <Count>24</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'API-court-by-address.spec.es6'">
@@ -550,7 +550,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2513</Count>
+          <Count>2515</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -598,7 +598,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>768</Count>
+          <Count>770</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>25</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -1638,7 +1638,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>449</Count>
+          <Count>450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>423</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -1870,7 +1870,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '06-00-check-by-fias.es6'</Description>
-          <Count>16</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'API-court-by-address.spec.es6'">
