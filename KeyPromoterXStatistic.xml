@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>316</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -942,7 +942,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>507</Count>
+          <Count>508</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
