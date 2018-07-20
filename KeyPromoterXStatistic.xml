@@ -534,7 +534,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails --silly'</Description>
-          <Count>62</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '● sails'">
@@ -558,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2520</Count>
+          <Count>2521</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -942,7 +942,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>511</Count>
+          <Count>512</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -2126,7 +2126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>140</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker R'">
@@ -2334,7 +2334,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>111</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
     </option>
