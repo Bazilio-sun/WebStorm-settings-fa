@@ -4,14 +4,12 @@
     <option name="customScope" value="PLAT_SRC_WO_ASSETS" />
     <option name="defaultScopeName" value="PLAT_SRC_WO_ASSETS" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="PLAT_SRC_WO_ASSETS" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
