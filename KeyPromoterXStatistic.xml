@@ -542,7 +542,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>295</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
