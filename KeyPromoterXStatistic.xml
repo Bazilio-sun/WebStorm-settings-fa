@@ -78,7 +78,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Paths">
