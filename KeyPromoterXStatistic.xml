@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>706</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2568</Count>
+          <Count>2570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -614,7 +614,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>789</Count>
+          <Count>791</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -734,7 +734,7 @@
           <IdeaActionID>VcsShowNextChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Down'</ShortCut>
           <Description>Next Change</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
