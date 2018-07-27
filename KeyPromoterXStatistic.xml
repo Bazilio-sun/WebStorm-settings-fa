@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2238</Count>
+          <Count>2247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -550,7 +550,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>307</Count>
+          <Count>308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2547</Count>
+          <Count>2552</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -766,7 +766,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>120</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>81</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
