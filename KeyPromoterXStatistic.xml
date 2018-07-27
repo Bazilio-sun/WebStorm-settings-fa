@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>696</Count>
+          <Count>698</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -558,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2544</Count>
+          <Count>2545</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -750,7 +750,7 @@
           <IdeaActionID>VcsShowPrevChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Up'</ShortCut>
           <Description>Previous Change</Description>
-          <Count>83</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'address.sh'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'cache-pack-and-uploa...'">
@@ -2142,7 +2142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker R'">
