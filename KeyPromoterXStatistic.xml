@@ -361,6 +361,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DEV (ubuntu)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DEV (ubuntu)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DEV'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -958,7 +966,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>514</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
