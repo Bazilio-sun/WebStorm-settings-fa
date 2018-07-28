@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>348</Count>
+          <Count>350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -550,7 +550,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>335</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
