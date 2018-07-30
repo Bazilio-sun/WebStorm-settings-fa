@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2293</Count>
+          <Count>2296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -78,7 +78,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>34</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>722</Count>
+          <Count>725</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2581</Count>
+          <Count>2583</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -878,7 +878,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Paste</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Reload From Disk">
@@ -2182,7 +2182,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
