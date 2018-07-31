@@ -13,6 +13,9 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/DEV/RC/_ss_platform/web/_ss/PLAT-2340" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
