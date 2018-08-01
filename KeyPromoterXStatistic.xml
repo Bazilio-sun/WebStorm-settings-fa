@@ -78,7 +78,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>39</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -574,7 +574,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>121</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -974,7 +974,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>528</Count>
+          <Count>531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '01-get-courts-list'">

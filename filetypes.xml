@@ -17,6 +17,7 @@
       <mapping ext="json_" type="PLAIN_TEXT" />
       <mapping ext="add" type="PLAIN_TEXT" />
       <mapping ext="p7s" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="find с ограничением столбцов" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
