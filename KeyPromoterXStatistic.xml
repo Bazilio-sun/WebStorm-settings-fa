@@ -110,7 +110,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -1289,6 +1289,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DEV (ubuntu) (ENV-KEYS)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DEV (ubuntu) (ENV-KEYS)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DEV (ubuntu)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1942,6 +1950,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CALC (MY)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DEV (ubuntu) (ENV-KEYS)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DEV (ubuntu) (ENV-KEYS)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
