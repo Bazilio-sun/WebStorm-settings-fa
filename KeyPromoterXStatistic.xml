@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2350</Count>
+          <Count>2351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>376</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -86,7 +86,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Paths">
@@ -366,7 +366,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DEV (ubuntu)'</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'DEV (ubuntu)'</Description>
-          <Count>9</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DEV'">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>536</Count>
+          <Count>537</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1966,7 +1966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DEV (ubuntu)'</Description>
-          <Count>13</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DEV'">
