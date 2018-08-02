@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2633</Count>
+          <Count>2634</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -982,7 +982,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>534</Count>
+          <Count>535</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -2143,6 +2143,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'scrape.js'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'server.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'server.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sql2.es6'">
