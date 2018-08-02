@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2366</Count>
+          <Count>2368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -110,7 +110,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>736</Count>
+          <Count>738</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -558,7 +558,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>359</Count>
+          <Count>365</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.js'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
