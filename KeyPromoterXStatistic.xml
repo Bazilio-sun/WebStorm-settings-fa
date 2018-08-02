@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2632</Count>
+          <Count>2633</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1313,14 +1313,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DEV (ubuntu)'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'DEV (ubuntu)'</Description>
-          <Count>39</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'DEV'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1575,6 +1567,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'server.es6'</Description>
           <Count>165</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'server.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
@@ -1983,14 +1983,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DEV (ubuntu) (ENV-KEYS)'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DEV (ubuntu)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'DEV (ubuntu)'</Description>
-          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DEV'">
@@ -2601,6 +2593,14 @@
           <Count>24</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DEV (ubuntu)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DEV (ubuntu)'</Description>
+          <Count>42</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MIGRATION'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2711,6 +2711,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DEV (sx)'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DEV (ubuntu)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DEV (ubuntu)'</Description>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '___t.es6'">
