@@ -358,7 +358,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '1.es6'</Description>
-          <Count>10</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'API-court-by-address.spec.es6'">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '1.es6'</Description>
-          <Count>4</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'API-court-by-address.spec.es6'">
