@@ -353,6 +353,14 @@
           <Count>42</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '1.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '1.es6'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'API-court-by-address.spec.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
