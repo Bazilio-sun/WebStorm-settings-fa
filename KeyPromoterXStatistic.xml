@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>734</Count>
+          <Count>735</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -550,7 +550,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>356</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2629</Count>
+          <Count>2630</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1390,7 +1390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'address.sh'</Description>
-          <Count>42</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'cache-pack-and-uploa...'">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'address.sh'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'calc-plat-test.sh'">
@@ -2382,7 +2382,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>126</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
     </option>
