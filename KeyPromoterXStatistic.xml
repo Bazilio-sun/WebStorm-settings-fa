@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2393</Count>
+          <Count>2396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -558,7 +558,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '● sails'</Description>
-          <Count>374</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2650</Count>
+          <Count>2652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2206,7 +2206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● worker R'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker URGENT'">
