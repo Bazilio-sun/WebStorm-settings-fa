@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2380</Count>
+          <Count>2385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>758</Count>
+          <Count>760</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2645</Count>
+          <Count>2647</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -774,7 +774,7 @@
           <IdeaActionID>VcsShowPrevChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Up'</ShortCut>
           <Description>Previous Change</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>550</Count>
+          <Count>552</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
