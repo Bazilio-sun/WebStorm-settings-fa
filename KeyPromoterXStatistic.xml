@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2427</Count>
+          <Count>2428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>780</Count>
+          <Count>783</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -430,7 +430,15 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TEST-T'</Description>
-          <Count>32</Count>
+          <Count>47</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TESTS'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TESTS'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '__t.es6 (1)'">
@@ -574,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2678</Count>
+          <Count>2679</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1374,7 +1382,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TEST-T'</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '___t.es6'">
@@ -2014,7 +2022,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TEST-T'</Description>
-          <Count>23</Count>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TESTS'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TESTS'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '__t.es6 (1)'">
