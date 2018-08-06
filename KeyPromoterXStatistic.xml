@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>397</Count>
+          <Count>398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>567</Count>
+          <Count>572</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
