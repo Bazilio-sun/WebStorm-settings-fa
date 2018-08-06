@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2447</Count>
+          <Count>2449</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>389</Count>
+          <Count>392</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -582,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2692</Count>
+          <Count>2693</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'address.sh'</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'cache-pack-and-uploa...'">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>557</Count>
+          <Count>560</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2246,7 +2246,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2366,7 +2366,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Reformat Code</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Reload From Disk">
