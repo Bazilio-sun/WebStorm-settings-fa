@@ -361,6 +361,14 @@
           <Count>30</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '1.es6.js'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '1.es6.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'API-court-by-address.spec.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1263,6 +1271,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '1.es6'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '1.es6.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '1.es6.js'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'API-court-by-address...'">
