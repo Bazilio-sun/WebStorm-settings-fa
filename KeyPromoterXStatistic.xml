@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>792</Count>
+          <Count>795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -366,7 +366,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '1.es6.js'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'API-court-by-address.spec.es6'">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '1.es6.js'</Description>
-          <Count>36</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'API-court-by-address...'">
@@ -1990,7 +1990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '1.es6.js'</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'API-court-by-address.spec.es6'">
