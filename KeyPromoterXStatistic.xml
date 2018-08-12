@@ -1710,7 +1710,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>143</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
