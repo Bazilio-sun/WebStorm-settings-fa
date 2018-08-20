@@ -358,7 +358,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '1.es6'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '1.es6.js'">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '1.es6'</Description>
-          <Count>37</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1.es6.js'">
