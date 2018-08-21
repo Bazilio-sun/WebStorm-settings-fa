@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2462</Count>
+          <Count>2467</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -590,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2720</Count>
+          <Count>2724</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -774,7 +774,7 @@
           <IdeaActionID>VcsShowNextChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Down'</ShortCut>
           <Description>Next Change</Description>
-          <Count>79</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -798,7 +798,7 @@
           <IdeaActionID>VcsShowPrevChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Up'</ShortCut>
           <Description>Previous Change</Description>
-          <Count>94</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
