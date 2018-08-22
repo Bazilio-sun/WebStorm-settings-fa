@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2474</Count>
+          <Count>2476</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -590,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2731</Count>
+          <Count>2732</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '1.es6'</Description>
-          <Count>46</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1.es6.js'">
