@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>806</Count>
+          <Count>807</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -590,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2740</Count>
+          <Count>2742</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -774,7 +774,7 @@
           <IdeaActionID>VcsShowNextChangeMarker</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Down'</ShortCut>
           <Description>Next Change</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -1758,7 +1758,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>576</Count>
+          <Count>578</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
