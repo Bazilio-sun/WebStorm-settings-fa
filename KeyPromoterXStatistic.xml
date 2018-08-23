@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2493</Count>
+          <Count>2494</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -590,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2748</Count>
+          <Count>2750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2286,7 +2286,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2374,6 +2374,14 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo EditorChange</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Fix all 'Non-strict mode used'...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Fix all 'Non-strict mode used'...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
