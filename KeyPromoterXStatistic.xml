@@ -510,7 +510,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'gen-rfc-2012.es6'</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'get-courts-list.es6'">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>461</Count>
+          <Count>462</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
