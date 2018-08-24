@@ -505,6 +505,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'gen-rfc-2012.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'gen-rfc-2012.es6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'get-courts-list.es6'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -598,7 +606,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -1006,7 +1014,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>539</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1535,6 +1543,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'flush-redis-couch.sh'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'gen-rfc-2012.es6'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'gen-rfc-2012.es6'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'get-court-details.es6'">
