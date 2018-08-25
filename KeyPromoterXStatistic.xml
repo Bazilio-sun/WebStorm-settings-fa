@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2502</Count>
+          <Count>2507</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>811</Count>
+          <Count>813</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -510,7 +510,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'gen-rfc-2012.es6'</Description>
-          <Count>57</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'get-courts-list.es6'">
@@ -598,7 +598,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2762</Count>
+          <Count>2764</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -646,7 +646,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>818</Count>
+          <Count>823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -926,7 +926,7 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Paste</Description>
-          <Count>47</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Reload From Disk">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'gen-rfc-2012.es6'</Description>
-          <Count>7</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'get-court-details.es6'">
@@ -2182,7 +2182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'gen-rfc-2012.es6'</Description>
-          <Count>29</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'get-court-details.es6'">
