@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2500</Count>
+          <Count>2501</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -510,7 +510,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'gen-rfc-2012.es6'</Description>
-          <Count>29</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'get-courts-list.es6'">
@@ -1750,7 +1750,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>465</Count>
+          <Count>467</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -2182,7 +2182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'gen-rfc-2012.es6'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'get-court-details.es6'">
@@ -2494,7 +2494,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
     </option>
