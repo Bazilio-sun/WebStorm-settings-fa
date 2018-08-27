@@ -1022,7 +1022,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>545</Count>
+          <Count>546</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
