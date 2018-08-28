@@ -390,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DEV (ubuntu)'</Description>
-          <Count>55</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -606,7 +606,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>127</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -630,7 +630,7 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Source</Description>
-          <Count>99</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -1742,7 +1742,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>32</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
