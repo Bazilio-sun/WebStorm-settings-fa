@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>20</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2554</Count>
+          <Count>2557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>400</Count>
+          <Count>402</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>823</Count>
+          <Count>824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -390,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DEV (ubuntu)'</Description>
-          <Count>53</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>478</Count>
+          <Count>479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -2486,7 +2486,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
