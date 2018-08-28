@@ -646,7 +646,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>838</Count>
+          <Count>841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>482</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
