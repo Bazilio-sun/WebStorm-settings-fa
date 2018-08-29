@@ -390,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DEV (ubuntu)'</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -646,7 +646,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>843</Count>
+          <Count>845</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
