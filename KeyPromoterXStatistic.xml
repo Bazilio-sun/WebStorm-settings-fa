@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2613</Count>
+          <Count>2614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -390,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DEV (ubuntu)'</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -646,7 +646,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>845</Count>
+          <Count>847</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>491</Count>
+          <Count>493</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -2334,7 +2334,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Backspace</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Choose Lookup Item">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Delete</Description>
-          <Count>77</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Delete Line">
