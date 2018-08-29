@@ -390,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DEV (ubuntu)'</Description>
-          <Count>74</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV'">
@@ -646,7 +646,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>847</Count>
+          <Count>849</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>493</Count>
+          <Count>494</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -2494,7 +2494,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
     </option>
