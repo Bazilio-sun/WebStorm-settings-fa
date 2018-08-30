@@ -374,7 +374,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '3.js'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'API-court-by-address.spec.es6'">
@@ -471,6 +471,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '__t.es6'</Description>
           <Count>73</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'as.es5'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'as.es5'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'court_ms.js'">
@@ -646,7 +654,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>850</Count>
+          <Count>851</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -1022,7 +1030,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>565</Count>
+          <Count>566</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1471,6 +1479,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'address.sh'</Description>
           <Count>71</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'as.es5'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'as.es5'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'cache-pack-and-uploa...'">
@@ -2065,6 +2081,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '3.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '3.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'API-court-by-address.spec.es6'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2151,6 +2175,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'address.sh'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'as.es5'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'as.es5'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'calc-plat-test.sh'">
