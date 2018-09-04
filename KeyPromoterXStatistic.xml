@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2672</Count>
+          <Count>2680</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -383,6 +383,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'API-court-by-address.spec.es6'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DEV (ubuntu) (ENV-KEYS)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DEV (ubuntu) (ENV-KEYS)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DEV (ubuntu)'">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>577</Count>
+          <Count>578</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1390,7 +1398,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'DEV (ubuntu) (ENV-KEYS)'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DEV'">
@@ -2126,7 +2134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DEV (ubuntu) (ENV-KEYS)'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DEV'">
