@@ -1649,6 +1649,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'index.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'index.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'inject-sql-log.sh'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1719,6 +1727,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'set-cf-address.es6'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'start'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'start'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 't.es6'">
@@ -2351,6 +2367,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sql2.es6'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'start'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'stat-cached-pages.es6'">
