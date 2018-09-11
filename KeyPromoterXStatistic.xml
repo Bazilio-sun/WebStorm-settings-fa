@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2734</Count>
+          <Count>2741</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -630,7 +630,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>135</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -750,7 +750,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Right' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>122</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
