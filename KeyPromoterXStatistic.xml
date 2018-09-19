@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2755</Count>
+          <Count>2760</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -414,7 +414,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'MIGRATION'</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'S-REGULAR'">
@@ -758,7 +758,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Right' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>125</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>581</Count>
+          <Count>584</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -2190,7 +2190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MIGRATION'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TEST'">
@@ -2430,7 +2430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '● sails --silly'</Description>
-          <Count>163</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '● worker R'">
