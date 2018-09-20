@@ -1345,6 +1345,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '222.es6'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '222.es6'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'API-court-by-address...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
