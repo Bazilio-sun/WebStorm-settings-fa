@@ -374,7 +374,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '222.es6'</Description>
-          <Count>13</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '3.js'">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '222.es6'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'API-court-by-address...'">
@@ -2166,7 +2166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '222.es6'</Description>
-          <Count>7</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '3.js'">
