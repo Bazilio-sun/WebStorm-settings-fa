@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>844</Count>
+          <Count>845</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -367,6 +367,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '1.es6.js'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '222.es6'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '222.es6'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '3.js'">
@@ -1350,7 +1358,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '222.es6'</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'API-court-by-address...'">
@@ -2151,6 +2159,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '1.es6.js'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '222.es6'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '222.es6'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '3.js'">
