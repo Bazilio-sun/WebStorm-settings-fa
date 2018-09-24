@@ -110,7 +110,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>110</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -342,7 +342,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-parse-cotr.es6'</Description>
-          <Count>355</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '06-00-check-by-fias.es6'">
@@ -686,7 +686,7 @@
           <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>606</Count>
+          <Count>608</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2150,7 +2150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-parse-cotr.es6'</Description>
-          <Count>275</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '06-00-check-by-fias.es6'">
@@ -2678,7 +2678,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
