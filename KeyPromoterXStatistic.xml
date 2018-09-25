@@ -342,7 +342,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-parse-cotr.es6'</Description>
-          <Count>425</Count>
+          <Count>429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '06-00-check-by-fias.es6'">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run '05-parse-cotr.es6'</Description>
-          <Count>61</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '06-00-check-by-fias....'">
@@ -2158,7 +2158,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-parse-cotr.es6'</Description>
-          <Count>336</Count>
+          <Count>340</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '06-00-check-by-fias.es6'">
