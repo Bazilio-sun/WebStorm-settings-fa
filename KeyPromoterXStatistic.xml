@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2854</Count>
+          <Count>2864</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -342,7 +342,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-parse-cotr.es6'</Description>
-          <Count>394</Count>
+          <Count>406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '06-00-check-by-fias.es6'">
@@ -694,7 +694,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>875</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -1926,7 +1926,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>527</Count>
+          <Count>529</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
@@ -2150,7 +2150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '05-parse-cotr.es6'</Description>
-          <Count>309</Count>
+          <Count>320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '06-00-check-by-fias.es6'">
