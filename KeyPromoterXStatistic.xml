@@ -342,7 +342,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '05-parse-cotr.es6'</Description>
-          <Count>571</Count>
+          <Count>577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '06-00-check-by-fias.es6'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '06-00-check-by-fias.es6'</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '1.es6'">
@@ -694,7 +694,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>892</Count>
+          <Count>893</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
