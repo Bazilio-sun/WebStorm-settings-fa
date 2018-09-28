@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3073</Count>
+          <Count>3080</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -774,7 +774,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Right' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>136</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
@@ -2534,7 +2534,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Backspace</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Choose Lookup Item">
@@ -2574,7 +2574,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Delete</Description>
-          <Count>89</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Delete Line">
@@ -2630,7 +2630,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Paste</Description>
-          <Count>136</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Reformat Code">
