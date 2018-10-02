@@ -1,11 +1,16 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration doNotStepIntoLibraryCode="false">
           <custom-object-presentation />
+          <stepping-filters-enabled>false</stepping-filters-enabled>
         </configuration>
       </debugger>
     </debuggers>
