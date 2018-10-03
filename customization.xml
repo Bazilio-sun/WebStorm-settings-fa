@@ -1,17 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Stop" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -256,6 +244,6 @@
     <action id="Debug" icon="/usr/bin/ss/icons/WebStormIco/debug.png" />
     <action id="ChooseRunConfiguration" icon="/usr/bin/ss/icons/WebStormIco/run.png" />
     <action id="GotoNextBookmark" icon="/usr/bin/ss/icons/WebStormIco/bookmark-prev.png" />
-    <action id="Resume" icon="/usr/bin/ss/icons/WebStormIco/running.png" />
+    <action id="Resume" icon="$USER_HOME$/Downloads/t.png" />
   </component>
 </application>
