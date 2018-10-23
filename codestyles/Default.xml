@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <DBN-PSQL>
-    <case-options enabled="false">
+    <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
       <option name="FUNCTION_CASE" value="lower" />
       <option name="PARAMETER_CASE" value="lower" />
@@ -10,7 +10,7 @@
     <formatting-settings enabled="false" />
   </DBN-PSQL>
   <DBN-SQL>
-    <case-options enabled="false">
+    <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
       <option name="FUNCTION_CASE" value="lower" />
       <option name="PARAMETER_CASE" value="lower" />
@@ -26,6 +26,10 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <JSON>
     <option name="OBJECT_WRAPPING" value="1" />
     <option name="ARRAY_WRAPPING" value="1" />
@@ -34,7 +38,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <DBN-PSQL>
-    <case-options enabled="true">
+    <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
       <option name="FUNCTION_CASE" value="lower" />
       <option name="PARAMETER_CASE" value="lower" />
@@ -44,7 +48,7 @@
     <formatting-settings enabled="false" />
   </DBN-PSQL>
   <DBN-SQL>
-    <case-options enabled="true">
+    <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
       <option name="FUNCTION_CASE" value="lower" />
       <option name="PARAMETER_CASE" value="lower" />
