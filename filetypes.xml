@@ -10,6 +10,7 @@
       <mapping pattern="Тест_angular" type="PLAIN_TEXT" />
       <mapping pattern="Задачи по фильтрам" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
+      <mapping pattern="AF-112" type="PLAIN_TEXT" />
       <mapping pattern="Результат обработки 227 платежей" type="PLAIN_TEXT" />
       <mapping pattern="1992" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
