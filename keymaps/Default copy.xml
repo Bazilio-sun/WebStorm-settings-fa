@@ -13,4 +13,8 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
 </keymap>
