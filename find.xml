@@ -21,7 +21,7 @@
     <mask>*.js,*.es6,*.vue</mask>
     <mask>*.css</mask>
     <mask>*.vue</mask>
-    <mask>*.js,*.es6</mask>
     <mask>*.sql</mask>
+    <mask>*.js,*.es6</mask>
   </component>
 </application>
