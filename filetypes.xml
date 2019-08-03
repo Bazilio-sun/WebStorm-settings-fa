@@ -4,14 +4,15 @@
       <mapping pattern="d" type="Bat" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="Логирование запросов Waterline" type="Markdown" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="branch" type="PLAIN_TEXT" />
       <mapping pattern="Результат обработки 227 платежей" type="PLAIN_TEXT" />
+      <mapping pattern="PLAT-2111" type="PLAIN_TEXT" />
       <mapping pattern="AF-112" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="1992" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
-      <mapping pattern="PLAT-2111" type="PLAIN_TEXT" />
       <mapping pattern="Сюда переносим отключенные файлы из старого API" type="PLAIN_TEXT" />
       <mapping pattern="Тест_angular" type="PLAIN_TEXT" />
       <mapping pattern="TODO,txt" type="PLAIN_TEXT" />
@@ -19,20 +20,20 @@
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="71325873" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="json_" type="PLAIN_TEXT" />
-      <mapping ext="sgn" type="PLAIN_TEXT" />
-      <mapping ext="branch" type="PLAIN_TEXT" />
-      <mapping ext="add" type="PLAIN_TEXT" />
-      <mapping ext="p7s" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
-      <mapping ext="find с ограничением столбцов" type="PLAIN_TEXT" />
-      <mapping ext="bkp" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="logon" type="PLAIN_TEXT" />
-      <mapping ext="dump" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="alex" type="PLAIN_TEXT" />
+      <mapping ext="logon" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p7s" type="PLAIN_TEXT" />
+      <mapping ext="find с ограничением столбцов" type="PLAIN_TEXT" />
+      <mapping ext="json_" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="add" type="PLAIN_TEXT" />
+      <mapping ext="sgn" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="bkp" type="PLAIN_TEXT" />
+      <mapping ext="branch" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -40,12 +41,12 @@
       <mapping pattern="*.xcbr.sid" type="XML" />
       <mapping pattern="*.xsl.sid" type="XML" />
       <mapping pattern="*.esbp.sid" type="XML" />
-      <mapping ext="esbp" type="XML" />
-      <mapping ext="pickup" type="XML" />
-      <mapping ext="xcbr" type="XML" />
       <mapping ext="signed" type="XML" />
       <mapping ext="cbr" type="XML" />
+      <mapping ext="esbp" type="XML" />
       <mapping ext="drop" type="XML" />
+      <mapping ext="xcbr" type="XML" />
+      <mapping ext="pickup" type="XML" />
       <mapping ext="esbdb" type="XML" />
       <removed_mapping ext="ant" approved="true" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -69,7 +70,6 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern="Логирование запросов Waterline" type="Markdown" />
     </extensionMap>
   </component>
 </application>
