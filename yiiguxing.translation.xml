@@ -1,4 +1,15 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Редактирование группы" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
