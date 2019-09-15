@@ -41,8 +41,6 @@
   </JSCodeStyleSettings>
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
-    <option name="OBJECT_WRAPPING" value="1" />
-    <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
   <MSSQLCodeStyleSettings version="2">
     <option name="DISABLE_FORMATTING" value="true" />
