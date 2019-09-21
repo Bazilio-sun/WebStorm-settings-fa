@@ -1,7 +1,8 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1547037215831" actual="0" highlighted="false" highlightingtype="Red" title="Вынести в отдельный компонент контекстное меню" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1547037215831" actual="0" highlighted="false" highlightingtype="Red" title="Контекстное меню в персон группы: копирование GUID персоны" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1569098524950" actual="0" highlighted="false" highlightingtype="Red" title="Контекстное меню в список персон: копирование GUID персоны" description="" />
     </tasks>
   </component>
 </application>
