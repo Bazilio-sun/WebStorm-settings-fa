@@ -1,9 +1,10 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1569122173104" actual="0" highlighted="false" highlightingtype="Red" title="Шиина колонок в справ персон" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1547037215831" actual="0" highlighted="false" highlightingtype="Red" title="Контекстное меню в персон группы: копирование GUID персоны" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1569098524950" actual="0" highlighted="false" highlightingtype="Red" title="Контекстное меню в список персон: копирование GUID персоны" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1547037215831" actual="0" highlighted="false" highlightingtype="Red" title="Не используется дата в фильтре LogSp" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1569098524950" actual="0" highlighted="false" highlightingtype="Red" title="Закрытие дате - тайм пикера по клику" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1569243570270" actual="0" highlighted="false" highlightingtype="Red" title="Унификация боди таблицы - сделать слот для боди по умолчанию" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1569243637062" actual="0" highlighted="false" highlightingtype="Red" title="Унификация миксина сервиса модели (вызов с параметром - конкретной модели)" description="" />
     </tasks>
   </component>
 </application>
