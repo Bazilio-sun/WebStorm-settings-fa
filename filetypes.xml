@@ -38,6 +38,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="Shell Script" />
       <mapping pattern="*.esbdb.sid" type="XML" />
       <mapping pattern="*.xcbr.sid" type="XML" />
       <mapping pattern="*.xsl.sid" type="XML" />
