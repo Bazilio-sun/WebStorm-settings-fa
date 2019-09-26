@@ -1,12 +1,10 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1569442887450" actual="0" highlighted="false" highlightingtype="Red" title="Функция корректировки даты в полях дейттайм" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569098524950" actual="0" highlighted="false" highlightingtype="Red" title="Закрытие дате - тайм пикера по клику" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569243570270" actual="0" highlighted="false" highlightingtype="Red" title="Унификация боди таблицы - сделать слот для боди по умолчанию" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569243637062" actual="0" highlighted="false" highlightingtype="Red" title="Унификация миксина сервиса модели (вызов с параметром - конкретной модели)" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569249155182" actual="0" highlighted="false" highlightingtype="Red" title="GRPC" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1569395360648" actual="0" highlighted="false" highlightingtype="Red" title="SUGGEST enit on input" description="" />
     </tasks>
   </component>
 </application>
