@@ -9,7 +9,10 @@
       <task priority="Normal" completed="false" estimated="0" created="1569565970898" actual="0" highlighted="false" highlightingtype="Red" title="mErr" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569098524950" actual="0" highlighted="false" highlightingtype="Red" title="Закрытие дате - тайм пикера по клику" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569249155182" actual="0" highlighted="false" highlightingtype="Red" title="GRPC" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1569917706391" actual="0" highlighted="false" highlightingtype="Red" title="EXEC [groups].GetAccounts '79C3F1E6-EFE8-7CF4-125B-22ADF63D1207' --Почему пусто" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1569918526516" actual="0" highlighted="false" highlightingtype="Red" title="DB" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1569918517835" actual="0" highlighted="false" highlightingtype="Red" title="- wasGroupDetected в cep_a-log" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1569917706391" actual="0" highlighted="false" highlightingtype="Red" title="EXEC [groups].GetAccounts '79C3F1E6-EFE8-7CF4-125B-22ADF63D1207' --Почему пусто" description="" />
+      </task>
     </tasks>
   </component>
 </application>
