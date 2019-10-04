@@ -13,6 +13,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1569918517835" actual="0" highlighted="false" highlightingtype="Red" title="- wasGroupDetected в cep_a-log" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1569917706391" actual="0" highlighted="false" highlightingtype="Red" title="EXEC [groups].GetAccounts '79C3F1E6-EFE8-7CF4-125B-22ADF63D1207' --Почему пусто" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1570169640730" actual="0" highlighted="false" highlightingtype="Red" title="minPersonInGroup [groups].Access_Detect" description="" />
     </tasks>
   </component>
 </application>
