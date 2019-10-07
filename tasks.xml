@@ -1,6 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1570456684905" actual="0" highlighted="false" highlightingtype="Red" title="Контекст &quot;Вывести из супергруппы&quot;" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570437468337" actual="0" highlighted="false" highlightingtype="Red" title="Перевести сотрудников на uniqueidentifier + datasync" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570437426851" actual="0" highlighted="false" highlightingtype="Red" title="Перевести Persons на uniqueidentifier" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570437373610" actual="0" highlighted="false" highlightingtype="Red" title="echo.sql + SQL + [id]" description="" />
