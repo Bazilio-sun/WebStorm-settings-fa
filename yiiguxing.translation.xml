@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="P" />
       <item value="Doesn't matter" />
       <item value="Only with employee" />
       <item value="Employee availability" />
@@ -18,7 +19,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="12" />
-        <entry key="RUSSIAN" value="12" />
+        <entry key="RUSSIAN" value="14" />
       </map>
     </option>
   </component>
