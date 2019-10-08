@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Вывести группу из супергруппы" />
       <item value="P" />
       <item value="Doesn't matter" />
       <item value="Only with employee" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="RUSSIAN" value="16" />
       </map>
     </option>
   </component>
