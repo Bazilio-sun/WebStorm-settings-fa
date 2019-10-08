@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are groups from other pages in comparison" />
       <item value="Вывести группу из супергруппы" />
       <item value="P" />
       <item value="Doesn't matter" />
@@ -19,7 +20,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="RUSSIAN" value="16" />
       </map>
     </option>
