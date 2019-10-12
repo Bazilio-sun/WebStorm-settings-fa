@@ -595,4 +595,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="some" value="$iterable$.some(($value$, $index$) =&gt; {&#10;  // return true to stop itteration&#10;  $END$&#10;});" description="Iterables: some" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
