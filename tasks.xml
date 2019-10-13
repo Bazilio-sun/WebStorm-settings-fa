@@ -1,7 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1570914742737" actual="0" highlighted="false" highlightingtype="Red" title="Просмотр супергруппы" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1570914742737" actual="0" highlighted="false" highlightingtype="Red" title="Просмотр супергруппы " description="getPersons2Group" />
       <task priority="Important" completed="false" estimated="0" created="1571006160776" actual="0" highlighted="false" highlightingtype="Red" title="Отчет о супергруппе" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570437426851" actual="0" highlighted="false" highlightingtype="Red" title="Перевести Persons на uniqueidentifier" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569243570270" actual="0" highlighted="false" highlightingtype="Red" title="Унификация боди таблицы - сделать слот для боди по умолчанию" description="" />
@@ -18,6 +18,8 @@
         <task priority="Normal" completed="false" estimated="0" created="1569883588959" actual="0" highlighted="false" highlightingtype="Red" title="+ Копирование guid персоны в клипбоард и поиск групп по персоне в новом окне" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
+      <task priority="Important" completed="false" estimated="0" created="1571006792045" actual="0" highlighted="false" highlightingtype="Red" title="Перенести лог выполнения ХП в &quot;Админ&quot;" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1571006846610" actual="0" highlighted="false" highlightingtype="Red" title="Добавить лог группировки групп в &quot;Админ&quot;" description="" />
     </tasks>
   </component>
 </application>
