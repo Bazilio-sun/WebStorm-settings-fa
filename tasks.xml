@@ -1,7 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1570946781189" actual="0" highlighted="false" highlightingtype="Red" title="CalcAmountAll на info" description="EXECUTE [groups].[CalcAmounts]&#10;EXECUTE [groups].[CalcAmounts]" />
       <task priority="Important" completed="false" estimated="0" created="1570915205237" actual="0" highlighted="false" highlightingtype="Red" title="Допилить процедуру добавления в СГ: обновлять времена и суммы" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570911212868" actual="0" highlighted="false" highlightingtype="Red" title="Оператора в g-merge-history" description="" />
       <task priority="Important" completed="false" estimated="0" created="1570915008909" actual="0" highlighted="false" highlightingtype="Red" title="Сведения для супергруппы  " description="Мин первого доступа  макс последнего достуапа. Тексты - из связи, если есть." />
