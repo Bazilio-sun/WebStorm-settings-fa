@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Group Didnt Added" />
+      <item value="Group Added" />
       <item value="Replenish" />
       <item value="toggle" />
       <item value="Antifraud" />
@@ -24,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
-        <entry key="RUSSIAN" value="18" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="RUSSIAN" value="20" />
       </map>
     </option>
   </component>
