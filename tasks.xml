@@ -20,6 +20,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
       <task priority="Important" completed="false" estimated="0" created="1571006792045" actual="0" highlighted="false" highlightingtype="Red" title="Перенести лог выполнения ХП в &quot;Админ&quot;" description="" />
       <task priority="Important" completed="false" estimated="0" created="1571006846610" actual="0" highlighted="false" highlightingtype="Red" title="Добавить лог группировки групп в &quot;Админ&quot;" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1571031317490" actual="0" highlighted="false" highlightingtype="Red" title="В очистку супергрупп добавить поиск и удаление повисших персон" description="" />
     </tasks>
   </component>
 </application>
