@@ -20,6 +20,7 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1570210161496" actual="0" highlighted="false" highlightingtype="Red" title="Телефоны персон Провести анализ вариантов. Функция нормализации" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570910451382" actual="0" highlighted="false" highlightingtype="Red" title="Чем пополняется таблица CEP_TradeCodes" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1571047405380" actual="0" highlighted="false" highlightingtype="Red" title="Поиск по мак-ип из деталей группы" description="" />
     </tasks>
   </component>
 </application>
