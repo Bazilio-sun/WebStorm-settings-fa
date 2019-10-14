@@ -1,12 +1,14 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1570914742737" actual="0" highlighted="false" highlightingtype="Red" title="Просмотр супергруппы " description="getPersons2Group" />
+      <task priority="Important" completed="false" estimated="0" created="1570914742737" actual="0" highlighted="false" highlightingtype="Red" title="Просмотр супергруппы (Терминалы)" description="getPersons2Group" />
       <task priority="Important" completed="false" estimated="0" created="1571006160776" actual="0" highlighted="false" highlightingtype="Red" title="Отчет о супергруппе" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1571006846610" actual="0" highlighted="false" highlightingtype="Red" title="Добавить лог группировки групп в &quot;Админ&quot;" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1571031317490" actual="0" highlighted="false" highlightingtype="Red" title="В очистку супергрупп добавить поиск и удаление повисших персон" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
       <task priority="Normal" completed="false" estimated="0" created="1570437426851" actual="0" highlighted="false" highlightingtype="Red" title="Перевести Persons на uniqueidentifier" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569243570270" actual="0" highlighted="false" highlightingtype="Red" title="Унификация боди таблицы - сделать слот для боди по умолчанию" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569243637062" actual="0" highlighted="false" highlightingtype="Red" title="Унификация миксина сервиса модели (вызов с параметром - конкретной модели)" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1569565970898" actual="0" highlighted="false" highlightingtype="Red" title="mErr" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569249155182" actual="0" highlighted="false" highlightingtype="Red" title="GRPC" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1569918526516" actual="0" highlighted="false" highlightingtype="Red" title="DB" description="">
         <task priority="Normal" completed="false" estimated="0" created="1569917706391" actual="0" highlighted="false" highlightingtype="Red" title="EXEC [groups].GetAccounts '79C3F1E6-EFE8-7CF4-125B-22ADF63D1207' --Почему пусто" description="" />
@@ -17,10 +19,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1570915104476" actual="0" highlighted="false" highlightingtype="Red" title="Обсудить полное слияние групп." description="" />
         <task priority="Normal" completed="false" estimated="0" created="1569883588959" actual="0" highlighted="false" highlightingtype="Red" title="+ Копирование guid персоны в клипбоард и поиск групп по персоне в новом окне" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
-      <task priority="Important" completed="false" estimated="0" created="1571006792045" actual="0" highlighted="false" highlightingtype="Red" title="Перенести лог выполнения ХП в &quot;Админ&quot;" description="" />
-      <task priority="Important" completed="false" estimated="0" created="1571006846610" actual="0" highlighted="false" highlightingtype="Red" title="Добавить лог группировки групп в &quot;Админ&quot;" description="" />
-      <task priority="Important" completed="false" estimated="0" created="1571031317490" actual="0" highlighted="false" highlightingtype="Red" title="В очистку супергрупп добавить поиск и удаление повисших персон" description="" />
     </tasks>
   </component>
 </application>
