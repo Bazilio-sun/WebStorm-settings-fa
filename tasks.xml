@@ -5,6 +5,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1570915104476" actual="0" highlighted="false" highlightingtype="Red" title="Обсудить полное слияние групп." description="" />
         <task priority="Normal" completed="false" estimated="0" created="1569883588959" actual="0" highlighted="false" highlightingtype="Red" title="+ Копирование guid персоны в клипбоард и поиск групп по персоне в новом окне" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1571038636961" actual="0" highlighted="false" highlightingtype="Red" title="Что делаем с комментариями к персонам супергруппы (в т.ч. UI)" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1571040018381" actual="0" highlighted="false" highlightingtype="Red" title="Что на счет  визуализации объединения супергрупп с простыми группами (и с сг)" description="" />
       </task>
       <task priority="Important" completed="false" estimated="0" created="1571006160776" actual="0" highlighted="false" highlightingtype="Red" title="Отчет о супергруппе" description="" />
       <task priority="Important" completed="false" estimated="0" created="1571006846610" actual="0" highlighted="false" highlightingtype="Red" title="Добавить лог группировки групп в &quot;Админ&quot;" description="" />
