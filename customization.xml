@@ -181,7 +181,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="editRunConfigurations" is_action="true" action_type="1" position="18">
+    <group value="ShowLiveRunConfigurations" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -193,7 +193,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowLiveRunConfigurations" is_action="true" action_type="1" position="19">
+    <group seperator="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -203,13 +203,6 @@
     <group seperator="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="20">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="21">
@@ -234,11 +227,12 @@
     </group>
     <action id="ChooseDebugConfiguration" icon="/usr/bin/ss/icons/WebStormIco/debug.png" />
     <action id="ToggleBookmarkWithMnemonic" icon="C:/work/SS/WebStormIco/bookmark-mnemonic.png" />
-    <action id="QuickChangeScheme" />
-    <action id="RestoreDefaultLayout" />
+    <action id="QuickChangeScheme" icon="C:/work/SS/WebStormIco/quick-switch-scheme.png" />
+    <action id="RestoreDefaultLayout" icon="C:/work/SS/WebStormIco/restore-default-layout.png" />
     <action id="Run" icon="C:/work/SS/WebStormIco/run.png" />
+    <action id="ShowLiveRunConfigurations" icon="C:/work/SS/WebStormIco/show-running-list.png" />
     <action id="ShowBookmarks" icon="C:/work/SS/WebStormIco/bookmark-list.png" />
-    <action id="MaximizeToolWindow" />
+    <action id="MaximizeToolWindow" icon="C:/work/SS/WebStormIco/maximaze-tool-window.png" />
     <action id="ToggleBookmark" icon="C:/work/SS/WebStormIco/bookmark-toggele.png" />
     <action id="GotoPreviousBookmark" icon="C:/work/SS/WebStormIco/bookmark-prev.png" />
     <action id="Debug" icon="C:/work/SS/WebStormIco/debug.png" />
