@@ -19,6 +19,12 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1571644386326" actual="0" highlighted="false" highlightingtype="Red" title="Разобраться с причиной появления ошибки VIOLATION PK при обновлении персон (см логи)" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1571644447780" actual="0" highlighted="false" highlightingtype="Red" title="Заглушить сбор логов доступа в периоды обслуживания серверов (с 8 до 9)" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1571913148401" actual="0" highlighted="false" highlightingtype="Red" title="data-xml" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1571913135574" actual="0" highlighted="false" highlightingtype="Red" title="ХП перевести на hasData" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1571913176382" actual="0" highlighted="false" highlightingtype="Red" title="sta-sync по аналогии с transaq" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1571913255123" actual="0" highlighted="false" highlightingtype="Red" title="FinamTrade&#9;Модуль загрузки логов доступа FinamTrade (переименовать в sync-finamtrade-activity.es6)" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1571913321653" actual="0" highlighted="false" highlightingtype="Red" title="ESB процесс FMQ.ctEsbMs-EDO-2:ID=esbEDO_EventAuth - перевести на ХП" description="" />
+      </task>
     </tasks>
   </component>
 </application>
