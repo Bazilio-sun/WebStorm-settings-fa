@@ -28,6 +28,9 @@
         <task priority="Normal" completed="false" estimated="0" created="1571913255123" actual="0" highlighted="false" highlightingtype="Red" title="FinamTrade&#9;Модуль загрузки логов доступа FinamTrade (переименовать в sync-finamtrade-activity.es6)" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1571913321653" actual="0" highlighted="false" highlightingtype="Red" title="ESB процесс FMQ.ctEsbMs-EDO-2:ID=esbEDO_EventAuth - перевести на ХП" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1574614346887" actual="0" highlighted="false" highlightingtype="Red" title="FT LOGs" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1574614367488" actual="0" highlighted="false" highlightingtype="Red" title="Корректировки" description="package.json:9&#10;    &amp;quot;scripts&amp;quot;: {         &amp;quot;start&amp;quot;: &amp;quot;NODE_ENV=production node start.es6&amp;quot;,         &amp;quot;chk&amp;quot;: &amp;quot;NODE_ENV=production node start.es6 -chk&amp;quot;,         &amp;quot;mntk&amp;quot;: &amp;quot;NODE_ENV=production node start.es6 -mnt&amp;quot;     }, " />
+      </task>
     </tasks>
   </component>
 </application>
