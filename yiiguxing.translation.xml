@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STA" />
       <item value="elapsed" />
       <item value="Group Didnt Added" />
       <item value="Group Added" />
@@ -28,7 +29,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="21" />
-        <entry key="RUSSIAN" value="21" />
+        <entry key="RUSSIAN" value="22" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
