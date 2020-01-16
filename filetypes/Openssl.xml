@@ -18,9 +18,9 @@
   </highlighting>
   <extensionMap>
     <mapping ext="ossltxt" />
-    <mapping ext="cfg" />
     <mapping ext="openssl" />
     <mapping ext="cnf" />
+    <mapping ext="cfg" />
     <mapping ext="config" />
   </extensionMap>
 </filetype>
