@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vue I 18 n" />
       <item value="scrab" />
       <item value="scrabb" />
       <item value="scrabbed" />
@@ -34,7 +35,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="26" />
-        <entry key="RUSSIAN" value="26" />
+        <entry key="RUSSIAN" value="27" />
+        <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
