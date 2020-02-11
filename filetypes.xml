@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="d" type="Bat" />
-      <mapping pattern="Логирование запросов Waterline" type="Markdown" />
       <mapping pattern="All_running_QUERIES" type="Native" />
       <mapping pattern="Сюда переносим отключенные файлы из старого API" type="PLAIN_TEXT" />
       <mapping pattern="PLAT-2111" type="PLAIN_TEXT" />
@@ -69,6 +68,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="Логирование запросов Waterline" type="Markdown" />
     </extensionMap>
   </component>
 </application>
