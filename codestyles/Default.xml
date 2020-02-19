@@ -42,12 +42,8 @@
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
   </JSON>
-  <MSSQLCodeStyleSettings version="2">
-    <option name="DISABLE_FORMATTING" value="true" />
-  </MSSQLCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="0" />
-    <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
