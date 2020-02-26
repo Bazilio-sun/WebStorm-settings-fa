@@ -49,9 +49,11 @@
     <filter name="VVQ">
       <pattern index="3" />
     </filter>
-    <filter name="VVM" />
     <filter name="VVR">
       <pattern index="5" />
+    </filter>
+    <filter name="VVM">
+      <pattern index="4" />
     </filter>
   </component>
 </application>
