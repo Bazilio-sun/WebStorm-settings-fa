@@ -28,7 +28,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="_.reduce" value="const $VAR$ = _.reduce($iterable$, ($previous$, $current$, $name$) =&gt; {&#10;  $END$&#10;}, $initial$);" description="Iterables:  _.reduce loop (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="_.reduce" value="const $VAR$ = _.reduce($iterable$, ($previous$, $current$, $name$) =&gt; {&#10;  $END$&#10;}, $initial$)" description="Iterables:  _.reduce loop (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="iterable" expression="jsArrayVariable()" defaultValue="&quot;arrayOrObject&quot;" alwaysStopAt="true" />
     <variable name="previous" expression="" defaultValue="&quot;previous&quot;" alwaysStopAt="true" />
     <variable name="current" expression="" defaultValue="&quot;current&quot;" alwaysStopAt="true" />
