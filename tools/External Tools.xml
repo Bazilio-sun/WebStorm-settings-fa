@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="sync-bf-push.cmd" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/c start &quot;&quot; cmd.exe /k sync-bf-push.cmd" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
