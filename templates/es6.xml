@@ -83,7 +83,7 @@
   </template>
   <template name="tc" value="try {&#10;  $try_body$&#10;} catch ($error$) {&#10;  $catch_body$&#10;}" description="Flow Control: try/catch" toReformat="false" toShortenFQNames="true">
     <variable name="try_body" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="error" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="error" expression="" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
     <variable name="catch_body" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
