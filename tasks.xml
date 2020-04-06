@@ -26,6 +26,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1574614367488" actual="0" highlighted="false" highlightingtype="Red" title="Корректировки" description="package.json:9&#10;    &amp;quot;scripts&amp;quot;: {         &amp;quot;start&amp;quot;: &amp;quot;NODE_ENV=production node start.es6&amp;quot;,         &amp;quot;chk&amp;quot;: &amp;quot;NODE_ENV=production node start.es6 -chk&amp;quot;,         &amp;quot;mntk&amp;quot;: &amp;quot;NODE_ENV=production node start.es6 -mnt&amp;quot;     }, " />
         <task priority="Normal" completed="false" estimated="0" created="1575117903663" actual="0" highlighted="false" highlightingtype="Red" title="Учетка SMTP для отправки сообщений" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1586137086645" actual="0" highlighted="false" highlightingtype="Red" title="FF" description="Модуль формирования писем со статистикой в конце дня &#13;&#10;Веб-сервер &#13;&#10;Модуль формирования страниц HTML со статистикой " />
     </tasks>
   </component>
 </application>
