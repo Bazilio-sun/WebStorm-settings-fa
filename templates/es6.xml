@@ -199,12 +199,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="reduce" value="$iterable$.reduce(($previous$, $current$) =&gt; {&#10;  return $body$&#10;}, $initial$);" description="Iterables: reduce function (chainable)" toReformat="false" toShortenFQNames="true">
-    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="previous" expression="" defaultValue="&quot;previous&quot;" alwaysStopAt="true" />
-    <variable name="current" expression="" defaultValue="&quot;current&quot;" alwaysStopAt="true" />
-    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="reduce" value="$iterable$reduce(($accum$, $item$) =&gt; {&#10;  return $body$&#10;}, $initial$);" description="Iterables: reduce function (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="accum" expression="" defaultValue="&quot;accum&quot;" alwaysStopAt="true" />
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
     <variable name="initial" expression="" defaultValue="&quot;initial&quot;" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
