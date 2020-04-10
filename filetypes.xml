@@ -33,6 +33,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="alex" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="Shell Script" />
       <mapping pattern="*.esbdb.sid" type="XML" />
       <mapping pattern="*.xcbr.sid" type="XML" />
