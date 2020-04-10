@@ -35,6 +35,7 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
+    <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="IMPORTS_WRAP" value="0" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
