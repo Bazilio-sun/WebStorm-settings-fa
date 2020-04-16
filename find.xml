@@ -6,7 +6,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.htm</mask>
@@ -18,5 +17,6 @@
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.es6</mask>
+    <mask>*.css</mask>
   </component>
 </application>
