@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throttled" />
       <item value="throttle" />
       <item value="Добавление в статистику очередного события" />
       <item value="Фиксация очередного события" />
@@ -50,13 +51,12 @@
       <item value="Group Added" />
       <item value="Replenish" />
       <item value="toggle" />
-      <item value="Antifraud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="55" />
+        <entry key="RUSSIAN" value="56" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
