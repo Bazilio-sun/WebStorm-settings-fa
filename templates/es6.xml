@@ -14,7 +14,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="l____" value="let $name$;" description="Declarations: let statement" toReformat="false" toShortenFQNames="true">
+  <template name="l_" value="let $name$;" description="Declarations: let statement" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -210,7 +210,7 @@
     </context>
   </template>
   <template name="filter" value="$iterable$.filter(($value$, $index$) =&gt; {&#10;  // return false to remove item from collection&#10;  $END$&#10;})" description="Iterables: filter function (chainable)" toReformat="false" toShortenFQNames="true">
-    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
@@ -219,7 +219,7 @@
     </context>
   </template>
   <template name="find" value="$iterable$.find(($value$, $index$) =&gt; {&#10;  // return true to find single item if it is in the collection&#10;  $END$&#10;})" description="Iterables: ES6 find function (chainable)" toReformat="false" toShortenFQNames="true">
-    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
@@ -378,7 +378,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="p____" value="new Promise((resolve, reject) =&gt; {&#10;  $END$&#10;});" description="Promises: new Promise (ES6)" toReformat="false" toShortenFQNames="true">
+  <template name="p_" value="new Promise((resolve, reject) =&gt; {&#10;  $END$&#10;});" description="Promises: new Promise (ES6)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -488,7 +488,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="st___" value="setTimeout(() =&gt; {&#10;  $END$&#10;}, $delay$);" description="Timers: setTimeout" toReformat="false" toShortenFQNames="true">
+  <template name="st_" value="setTimeout(() =&gt; {&#10;  $END$&#10;}, $delay$);" description="Timers: setTimeout" toReformat="false" toShortenFQNames="true">
     <variable name="delay" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -564,23 +564,17 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="me____" value="module.exports = $name$;" description="Node.js specifics:  module.exports" toReformat="false" toShortenFQNames="true">
+  <template name="me_" value="module.exports = $name$;" description="Node.js specifics:  module.exports" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="on____" value="$emitter$.on('$event$', $arguments$) =&gt; {&#10;  $END$&#10;});" description="Node.js specifics:  attach an event handler (chainable)" toReformat="false" toShortenFQNames="true">
-    <variable name="emitter" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="on_" value="$emitter$.on('$event$', $arguments$) =&gt; {&#10;  $END$&#10;});" description="Node.js specifics:  attach an event handler (chainable)" toReformat="false" toShortenFQNames="true">
+    <variable name="emitter" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="us" value="'use strict';" description="Miscellaneous: use strict" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
