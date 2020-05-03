@@ -1,6 +1,8 @@
 <application>
   <component name="TaskStorage">
     <tasks>
+      <task priority="Important" completed="false" estimated="0" created="1588541893490" actual="0" highlighted="false" highlightingtype="Red" title="Проверить корректность всех socket запросов" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
       <task priority="Normal" completed="false" estimated="0" created="1569243570270" actual="0" highlighted="false" highlightingtype="Red" title="Унификация боди таблицы - сделать слот для боди по умолчанию" description="" />
@@ -29,7 +31,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1586137086645" actual="0" highlighted="false" highlightingtype="Red" title="FF" description="Модуль формирования писем со статистикой в конце дня &#13;&#10;Веб-сервер &#13;&#10;Модуль формирования страниц HTML со статистикой " />
       <task priority="Normal" completed="false" estimated="0" created="1586621738085" actual="0" highlighted="false" highlightingtype="Red" title="QUASAR" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1586631153604" actual="0" highlighted="false" highlightingtype="Red" title="request-ntlm-lite -&gt;&gt; httpntlm" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1587899861598" actual="0" highlighted="false" highlightingtype="Red" title="!MADE!" description="Внесены изменения в форму оператора и сисстему прав: поле &amp;quot;примечание&amp;quot;, более удобный механизм назначения и применения прав&#13;&#10;Прераработано меню FF&#13;&#10;Добавлена &amp;quot;Обзорная панель&amp;quot;&#13;&#10;" />
+      <task priority="Normal" completed="false" estimated="0" created="1587899861598" actual="0" highlighted="false" highlightingtype="Red" title="!MADE!" description="Внесены изменения в форму оператора и сисстему прав: поле &amp;quot;примечание&amp;quot;, более удобный механизм назначения и применения прав&#13;&#10;Прераработано меню FF&#13;&#10;Добавлена &amp;quot;Обзорная панель&amp;quot;&#13;&#10;Исправлено переключение языка&#13;&#10;" />
     </tasks>
   </component>
 </application>
