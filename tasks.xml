@@ -1,6 +1,8 @@
 <application>
   <component name="TaskStorage">
     <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1588579026685" actual="0" highlighted="false" highlightingtype="Red" title="Тексты " description="" />
+      <task priority="Important" completed="false" estimated="0" created="1588579012589" actual="0" highlighted="false" highlightingtype="Red" title="SPAwarn" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
