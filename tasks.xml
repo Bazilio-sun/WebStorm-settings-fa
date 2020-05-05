@@ -1,8 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1588692399705" actual="0" highlighted="false" highlightingtype="Red" title="Время SPAerr lib.notify" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1588683911992" actual="0" highlighted="false" highlightingtype="Red" title="Страница пользователя по умолчанию" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1588683943815" actual="0" highlighted="false" highlightingtype="Red" title="Цвета графика" description="" />
       <task priority="Important" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
