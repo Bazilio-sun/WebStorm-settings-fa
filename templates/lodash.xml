@@ -19,10 +19,10 @@
     </context>
   </template>
   <template name="_.map" value="const $VAR$ = _.map($iterable$, ($item$, $name$) =&gt; {&#10;  $END$&#10;});" description="Iterables:  _.map loop (chainable)" toReformat="false" toShortenFQNames="true">
-    <variable name="iterable" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="&quot;myVar&quot;" alwaysStopAt="false" />
     <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
-    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
