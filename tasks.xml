@@ -14,6 +14,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1589638382802" actual="0" highlighted="false" highlightingtype="Red" title="Линии алертов на часовые и минутные графики" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589953380928" actual="0" highlighted="false" highlightingtype="Red" title="Модифицировать помощь" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1590051177628" actual="0" highlighted="false" highlightingtype="Red" title="HELP" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1590052766884" actual="0" highlighted="false" highlightingtype="Red" title="ByAccounts.md" description="" />
       </task>
       <task priority="Important" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
