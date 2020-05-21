@@ -3,6 +3,7 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="Сервер под сервисы" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
+        <task priority="Normal" completed="false" estimated="0" created="1589638580590" actual="0" highlighted="false" highlightingtype="Red" title="Починить EXCEL" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589964813260" actual="0" highlighted="false" highlightingtype="Red" title="Язык - в ссылках" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589964788848" actual="0" highlighted="false" highlightingtype="Red" title="Перерисовка графиков при переключении языка" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589954065238" actual="0" highlighted="false" highlightingtype="Red" title="Сводная статистика по количеству разных событий за период на точечной диаграмме" description="" />
@@ -11,7 +12,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1589791771370" actual="0" highlighted="false" highlightingtype="Red" title="Проблема соединения с WS" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589637427589" actual="0" highlighted="false" highlightingtype="Red" title="Адекватные тултипы к графикам " description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589638382802" actual="0" highlighted="false" highlightingtype="Red" title="Линии алертов на часовые и минутные графики" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1589638580590" actual="0" highlighted="false" highlightingtype="Red" title="Починить EXCEL" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589953380928" actual="0" highlighted="false" highlightingtype="Red" title="Модифицировать помощь" description="" />
       </task>
       <task priority="Important" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
