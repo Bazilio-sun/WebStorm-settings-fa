@@ -3,6 +3,7 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="Сервер под сервисы" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
+        <task priority="Normal" completed="false" estimated="0" created="1590180750230" actual="0" highlighted="false" highlightingtype="Red" title="глюк со временем на графике" description="http://localhost:8080/finam-forex/stat/by-accounts?type=REACH_STOPOUT_ML&amp;amp;top=20&amp;amp;ts=2020-05-19" />
         <task priority="Normal" completed="false" estimated="0" created="1589954065238" actual="0" highlighted="false" highlightingtype="Red" title="Сводная статистика по количеству разных событий за период на точечной диаграмме" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589948873709" actual="0" highlighted="false" highlightingtype="Red" title="Круговые диаграммы" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589637427589" actual="0" highlighted="false" highlightingtype="Red" title="Адекватные тултипы к графикам " description="" />
@@ -12,6 +13,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1590052766884" actual="0" highlighted="false" highlightingtype="Red" title="ByAccounts.md" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1590160473345" actual="0" highlighted="false" highlightingtype="Red" title="Контекстное меню в сигналах" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1590170511826" actual="0" highlighted="false" highlightingtype="Red" title="Передача языка в ссылках" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1590180772052" actual="0" highlighted="false" highlightingtype="Red" title="Не фильтруется по одному счету" description="" />
       </task>
       <task priority="Important" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
