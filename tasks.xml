@@ -3,6 +3,7 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="Сервер под сервисы" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
+        <task priority="Important" completed="false" estimated="0" created="1590281994437" actual="0" highlighted="false" highlightingtype="Red" title="При переходе по правому клику на график дата - на текущий момент" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589954065238" actual="0" highlighted="false" highlightingtype="Red" title="Сводная статистика по количеству разных событий за период на точечной диаграмме" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589948873709" actual="0" highlighted="false" highlightingtype="Red" title="Круговые диаграммы" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1589953380928" actual="0" highlighted="false" highlightingtype="Red" title="Модифицировать помощь" description="" />
