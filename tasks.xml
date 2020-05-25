@@ -3,8 +3,8 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="Сервер под сервисы" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
-        <task priority="Normal" completed="false" estimated="0" created="1589948873709" actual="0" highlighted="false" highlightingtype="Red" title="Круговые диаграммы" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1590217306311" actual="0" highlighted="false" highlightingtype="Red" title="Разделение прав доступа к Алертам" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1590414729342" actual="0" highlighted="false" highlightingtype="Red" title="Логирование ЗАПРОСОВ" description="" />
       </task>
       <task priority="Important" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
@@ -33,9 +33,8 @@
         <task priority="Normal" completed="false" estimated="0" created="1575117903663" actual="0" highlighted="false" highlightingtype="Red" title="Учетка SMTP для отправки сообщений" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1586137086645" actual="0" highlighted="false" highlightingtype="Red" title="FF" description="Модуль формирования писем со статистикой в конце дня &#13;&#10;Веб-сервер &#13;&#10;Модуль формирования страниц HTML со статистикой " />
-      <task priority="Normal" completed="false" estimated="0" created="1586621738085" actual="0" highlighted="false" highlightingtype="Red" title="QUASAR" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1586631153604" actual="0" highlighted="false" highlightingtype="Red" title="request-ntlm-lite -&gt;&gt; httpntlm" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1587899861598" actual="0" highlighted="false" highlightingtype="Red" title="!MADE!" description="Внесены изменения в форму оператора и сисстему прав: поле &amp;quot;примечание&amp;quot;, более удобный механизм назначения и применения прав&#13;&#10;Прераработано меню FF&#13;&#10;Добавлена &amp;quot;Обзорная панель&amp;quot;&#13;&#10;Исправлено переключение языка&#13;&#10;Наглядность графиков FF &#13;&#10;Задание страницы пользователя по умолчанию  &#13;&#10;Авторизация в WEB-сервисе Finam-Forex &#13;&#10;Переключение языка по сигналу/  Убрано переключение языка при параллельной работе двух операторов в разных языках &#13;&#10;Новые события FF в обзор: REACH_STOPOUT_ML, TT_ORDER_CLOSE_ALL &#13;&#10;Подстановка json значения из адреса в фильтр. &#13;&#10;Правильная трансляция нулевых дат &#13;&#10;Обзорная страница FF Поле &amp;quot;примечание&amp;quot; к оператору Функции проверки прав Список алертов FF&#13;&#10;&#13;&#10;&#13;&#10;Сервис ФФ &#13;&#10;Доп сведения в статистику для увеличения наглядности данных в UI &#13;&#10;Двухуровневая авторизация по токену при обращении к WEB-сервису &#13;&#10;Система ограничения количества алертов&#13;&#10; улучшение парсера &#13;&#10;Дополнение текста Email алертов - ссылки из писем" />
+      <task priority="Normal" completed="false" estimated="0" created="1587899861598" actual="0" highlighted="false" highlightingtype="Red" title="!MADE!" description="" />
     </tasks>
   </component>
 </application>
