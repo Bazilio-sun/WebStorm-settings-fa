@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="CEP_dev" uuid="891ac93a-c43e-4756-a751-3e2678087ff9">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://MSA-DBMT01-DB06:4433;database=CEP_dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CEP" uuid="12fe05d0-2a91-4d81-ae4b-2566ffe43efd">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://MSC-WEBDB23:54145;database=CEP</jdbc-url>
+    </data-source>
+  </component>
+</application>
