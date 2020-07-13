@@ -3,6 +3,10 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="J2T" description="">
         <task priority="Normal" completed="false" estimated="0" created="1594569597752" actual="0" highlighted="false" highlightingtype="Red" title="Фильтрация по счетам" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1594639423624" actual="0" highlighted="false" highlightingtype="Red" title="Логирование доступа к AF" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1594639534359" actual="0" highlighted="false" highlightingtype="Red" title="Добавить костыль для vtimanov" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1594639484229" actual="0" highlighted="false" highlightingtype="Red" title="Из под какой учетки происходит обращение к контролеру доменов из портала?" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1594639575904" actual="0" highlighted="false" highlightingtype="Red" title="Обсудить с Димой Гришиным возможность использования API сервера" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
         <task priority="Normal" completed="false" estimated="0" created="1590217306311" actual="0" highlighted="false" highlightingtype="Red" title="Разделение прав доступа к Алертам" description="" />
