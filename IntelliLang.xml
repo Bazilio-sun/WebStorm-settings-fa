@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="TSQL" injector-id="js">
+      <display-name>Transact-SQL declare</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *DECLARE +\\@.*[\"'`]?"))]]></place>
+    </injection>
+  </component>
+</application>
