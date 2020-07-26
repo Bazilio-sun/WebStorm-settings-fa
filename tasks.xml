@@ -9,6 +9,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1594664142884" actual="0" highlighted="false" highlightingtype="Red" title="Помощь на английском" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1595537197218" actual="0" highlighted="false" highlightingtype="Red" title="+ logfile + search в письмо" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1595696834554" actual="0" highlighted="false" highlightingtype="Red" title="Проверить, с каким временем сохраняются аленты - GMT или Москва? Как в интерфейсе? Как фильтруется?" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1595796984206" actual="0" highlighted="false" highlightingtype="Red" title="Ценф по данным, собранным из предыдущих логов" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
         <task priority="Normal" completed="false" estimated="0" created="1590217306311" actual="0" highlighted="false" highlightingtype="Red" title="Разделение прав доступа к Алертам" description="" />
