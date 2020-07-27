@@ -1,6 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
+      <task priority="Important" completed="false" estimated="0" created="1595834827663" actual="0" highlighted="false" highlightingtype="Red" title="Домен к имени пользовател яв шапку" description="" />
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="J2T" description="">
         <task priority="Normal" completed="false" estimated="0" created="1594664170564" actual="0" highlighted="false" highlightingtype="Red" title="Доступ к порталу для пользователей WTE" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1594569597752" actual="0" highlighted="false" highlightingtype="Red" title="Фильтрация по счетам" description="" />
