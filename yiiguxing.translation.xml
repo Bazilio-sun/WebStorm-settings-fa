@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source" />
       <item value="SINGLE TRADE PROFIT" />
       <item value="SINGLE" />
       <item value="lag" />
@@ -50,13 +51,12 @@
       <item value="nomoney" />
       <item value="по счету" />
       <item value="Распределение событий внутри дня по счету" />
-      <item value="Today Stat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="86" />
+        <entry key="RUSSIAN" value="87" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="2" />
