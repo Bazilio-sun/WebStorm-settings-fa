@@ -46,8 +46,8 @@
       <option name="EFFECT_COLOR" value="ff9183" />
     </pattern>
     <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bVVA\b.*">
-      <option name="FOREGROUND" value="fff8e4" />
-      <option name="BACKGROUND" value="ff0300" />
+      <option name="FOREGROUND" value="0" />
+      <option name="BACKGROUND" value="ff6d6b" />
       <option name="FONT_TYPE" value="1" />
       <option name="EFFECT_COLOR" value="fffa00" />
       <option name="ERROR_STRIPE_COLOR" value="ffffff" />
