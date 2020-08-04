@@ -189,7 +189,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".map" value=".map(($value$, $index$) =&gt; {&#10;  return $END$&#10;})" description="Iterables: map function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="map" value="map(($value$, $index$) =&gt; {&#10;  return $END$&#10;})" description="Iterables: map function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
@@ -197,7 +197,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".reduce" value=".reduce(($accum$, $item$, $index$, $selfArray$) =&gt; {&#10;  return $body$&#10;}, $initial$)" description="Iterables: reduce function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="reduce" value="reduce(($accum$, $item$, $index$, $selfArray$) =&gt; {&#10;  return $body$&#10;}, $initial$)" description="Iterables: reduce function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="accum" expression="" defaultValue="&quot;accum&quot;" alwaysStopAt="true" />
     <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
@@ -209,7 +209,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".filter" value=".filter(($value$, $index$) =&gt; {&#10;  // return false to remove item from collection&#10;  $END$&#10;})" description="Iterables: filter function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="filter" value="filter(($value$, $index$) =&gt; {&#10;  // return false to remove item from collection&#10;  $END$&#10;})" description="Iterables: filter function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
@@ -217,7 +217,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".find" value=".find(($value$, $index$) =&gt; {&#10;  // return true to find single item if it is in the collection&#10;  $END$&#10;})" description="Iterables: ES6 find function (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="find" value="find(($value$, $index$) =&gt; {&#10;  // return true to find single item if it is in the collection&#10;  $END$&#10;})" description="Iterables: ES6 find function (chainable)" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
@@ -586,7 +586,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name=".some" value=".some(($value$, $index$) =&gt; {&#10;  // return true to stop itteration&#10;  $END$&#10;});" description="Iterables: some" toReformat="false" toShortenFQNames="true">
+  <template name="some" value="some(($value$, $index$) =&gt; {&#10;  // return true to stop itteration&#10;  $END$&#10;});" description="Iterables: some" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <variable name="index" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <context>
