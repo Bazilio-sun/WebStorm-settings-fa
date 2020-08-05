@@ -1,22 +1,18 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1595834827663" actual="0" highlighted="false" highlightingtype="Red" title="Домен к имени пользовател яв шапку" description="" />
       <task priority="Important" completed="false" estimated="0" created="1589797899687" actual="0" highlighted="false" highlightingtype="Red" title="J2T" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1594664170564" actual="0" highlighted="false" highlightingtype="Red" title="Доступ к порталу для пользователей WTE" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1594569597752" actual="0" highlighted="false" highlightingtype="Red" title="Фильтрация по счетам" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1594664108224" actual="0" highlighted="false" highlightingtype="Red" title="Форма настройки параметров" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1594664124670" actual="0" highlighted="false" highlightingtype="Red" title="Визуализация доп сигналов" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1596616416396" actual="0" highlighted="false" highlightingtype="Red" title="При двойном клике на баре ORDER_PER_HOUR - всплывашка с инфой" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1594664108224" actual="0" highlighted="false" highlightingtype="Red" title="Форма настройки параметров" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1594664142884" actual="0" highlighted="false" highlightingtype="Red" title="Помощь на английском" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1595537197218" actual="0" highlighted="false" highlightingtype="Red" title="+ logfile + search в письмо" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1595696834554" actual="0" highlighted="false" highlightingtype="Red" title="Проверить, с каким временем сохраняются аленты - GMT или Москва? Как в интерфейсе? Как фильтруется?" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1595796984206" actual="0" highlighted="false" highlightingtype="Red" title="Ценф по данным, собранным из предыдущих логов" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1595796984206" actual="0" highlighted="false" highlightingtype="Red" title="Цену для расчета стоимости в истории брать по данным, собранным из логов за этот день (до события)" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1589637383540" actual="0" highlighted="false" highlightingtype="Red" title="ORDERS_ACTIONS" description="&#13;&#10;">
         <task priority="Normal" completed="false" estimated="0" created="1590217306311" actual="0" highlighted="false" highlightingtype="Red" title="Разделение прав доступа к Алертам" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1590414729342" actual="0" highlighted="false" highlightingtype="Red" title="Логирование ЗАПРОСОВ" description="" />
       </task>
-      <task priority="Important" completed="false" estimated="0" created="1588541964430" actual="0" highlighted="false" highlightingtype="Red" title="Страница настроек" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1595776127265" actual="0" highlighted="false" highlightingtype="Red" title="SLDS - попробовать новый уменьшенный css" description="" />
       <task priority="Important" completed="false" estimated="0" created="1574066172794" actual="0" highlighted="false" highlightingtype="Red" title="разобраться, куда девался .isDisabled.getter" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1570915111956" actual="0" highlighted="false" highlightingtype="Red" title="Замена слота ссылки на пдф иконкой" description="(Тултип иконки - название и гуид группы 8 симв колпво персон ) В название отчета - гуид группы (8) симв имя группы  " />
       <task priority="Normal" completed="false" estimated="0" created="1569243570270" actual="0" highlighted="false" highlightingtype="Red" title="Унификация боди таблицы - сделать слот для боди по умолчанию" description="" />
@@ -42,10 +38,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1574614367488" actual="0" highlighted="false" highlightingtype="Red" title="Корректировки" description="package.json:9&#10;    &amp;quot;scripts&amp;quot;: {         &amp;quot;start&amp;quot;: &amp;quot;NODE_ENV=production node start.es6&amp;quot;,         &amp;quot;chk&amp;quot;: &amp;quot;NODE_ENV=production node start.es6 -chk&amp;quot;,         &amp;quot;mntk&amp;quot;: &amp;quot;NODE_ENV=production node start.es6 -mnt&amp;quot;     }, " />
         <task priority="Normal" completed="false" estimated="0" created="1575117903663" actual="0" highlighted="false" highlightingtype="Red" title="Учетка SMTP для отправки сообщений" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1586137086645" actual="0" highlighted="false" highlightingtype="Red" title="FF" description="Модуль формирования писем со статистикой в конце дня &#13;&#10;Веб-сервер &#13;&#10;Модуль формирования страниц HTML со статистикой " />
-      <task priority="Normal" completed="false" estimated="0" created="1586631153604" actual="0" highlighted="false" highlightingtype="Red" title="request-ntlm-lite -&gt;&gt; httpntlm" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1587899861598" actual="0" highlighted="false" highlightingtype="Red" title="!MADE!" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1595776127265" actual="0" highlighted="false" highlightingtype="Red" title="SLDS - попробовать новый уменьшенный css" description="" />
     </tasks>
   </component>
 </application>
