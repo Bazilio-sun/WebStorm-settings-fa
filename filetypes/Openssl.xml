@@ -17,10 +17,10 @@
     <keywords4 keywords="cRLSign;clientAuth;codeSigning;critical;dataEncipherment;decipherOnly;digitalSignature;emailProtection;encipherOnly;keyAgreement;keyCertSign;keyEncipherment;nonRepudiation;openssl_conf;serverAuth" />
   </highlighting>
   <extensionMap>
-    <mapping ext="ossltxt" />
-    <mapping ext="openssl" />
-    <mapping ext="cnf" />
-    <mapping ext="cfg" />
     <mapping ext="config" />
+    <mapping ext="openssl" />
+    <mapping ext="ossltxt" />
+    <mapping ext="cfg" />
+    <mapping ext="cnf" />
   </extensionMap>
 </filetype>
