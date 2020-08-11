@@ -31,8 +31,8 @@
       <mapping ext="json_" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="p7s" type="PLAIN_TEXT" />
-      <mapping ext="branch" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="branch" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="Shell Script" />
       <mapping pattern="*.esbdb.sid" type="XML" />
