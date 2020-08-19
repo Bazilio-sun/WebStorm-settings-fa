@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Change Settings" />
       <item value="Восстановить значения по умолчанию" />
       <item value="Invalid email address" />
       <item value="scrabb" />
@@ -50,11 +51,10 @@
       <item value="Browser denied file download" />
       <item value="ALL ORDER ACTIVITY" />
       <item value="Добавить нового оператора с такими же правами" />
-      <item value="прореживать" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="104" />
         <entry key="FRENCH" value="1" />
